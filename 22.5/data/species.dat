@@ -1,0 +1,121 @@
+# 
+#
+# Authors:
+#    Pallavi Subhraveti
+#    Quang Ong
+#    Ingrid Keseler
+#    Anamika Kothari
+#    Ron Caspi
+#    Peter D Karp
+#
+# Please see the license agreement regarding the use of and distribution of this file.
+# The format of this file is defined at http://bioinformatics.ai.sri.com/ptools/flatfile-format.html .
+#
+# Species: Pseudomonas fluorescens SBW25
+# Database: PFLU216595CYC
+# Version: 22.5
+# File Name: species.dat
+# Date and time generated: September 10, 2018, 16:38:23
+#
+# Attributes:
+#    UNIQUE-ID
+#    TYPES
+#    COMMON-NAME
+#    BIOMASS-TEMPLATES
+#    CCO-INSTANCES
+#    CITATIONS
+#    COMMENT
+#    CONTACT-EMAIL
+#    CREDITS
+#    DATA-SOURCE
+#    DBLINKS
+#    DOCUMENTATION
+#    GENETIC-CODE
+#    GENOME
+#    GENOME-UPDATE-DATE
+#    HIDDEN-NAMES
+#    HIDE-SLOT?
+#    INFERENCE-STATS
+#    INSTANCE-NAME-TEMPLATE
+#    MEMBER-SORT-FN
+#    MITOCHONDRIAL-GENETIC-CODE
+#    PATHOLOGIC-NAME-MATCHER-EVIDENCE
+#    PATHOLOGIC-PWY-EVIDENCE
+#    PGDB-AUTHORS
+#    PGDB-COPYRIGHT
+#    PGDB-FOOTER-CITATION
+#    PGDB-HOME-PAGE
+#    PGDB-LAST-CONSISTENCY-CHECK
+#    PGDB-NAME
+#    PGDB-TIER
+#    PGDB-TYPE
+#    PGDB-UNIQUE-ID
+#    RANK
+#    SEQUENCE-SOURCE
+#    STRAIN-NAME
+#    SUBSPECIES-NAME
+#    SYNONYMS
+#
+UNIQUE-ID - PFLU216595
+TYPES - TAX-216595
+COMMON-NAME - Pseudomonas fluorescens
+CCO-INSTANCES - CCI-CYTOSKELETON-GN
+CCO-INSTANCES - CCI-RIBOSOME-GN
+CCO-INSTANCES - CCI-FLAGELLUM-GN
+CCO-INSTANCES - CCI-PILUS-GN
+CCO-INSTANCES - CCI-BAC-NUCLEOID-GN
+CCO-INSTANCES - CCI-CW-BAC-NEG-GN
+CCO-INSTANCES - CCI-S-LAYER-GN
+CCO-INSTANCES - CCI-PM-BAC-NEG-GN
+CCO-INSTANCES - CCI-OUTER-MEM-GN
+CCO-INSTANCES - CCI-EXTRACELLULAR-GN
+CCO-INSTANCES - CCI-PERI-BAC-GN
+CCO-INSTANCES - CCI-CYTOSOL-GN
+COMMENT - This Pathway/Genome Database (PGDB) was generated on 20-Sep-2017 from the annotated genome of <i>Pseudomonas fluorescens</i> SBW25, as obtained from RefSeq (annotation date: 19-MAY-2017).  
+/The PGDB was created computationally by the PathoLogic component of the Pathway Tools software (version 21.5) |CITS: [26454094],[22675592]| using MetaCyc version 21.1 |CITS: [26527732]|. It has not undergone any manual curation or review, and  may contain errors.
+/ Development of this PGDB was supported by grant GM080746 from the National Institute of Health.
+/
+DBLINKS - (BIOSAMPLE "SAMEA2272316" NIL |pecocyc| 3714510501 NIL NIL)
+DBLINKS - (NCBI-BIOPROJECT "PRJNA224116" NIL |pecocyc| 3714510501 NIL NIL)
+DBLINKS - (NCBI-TAXONOMY-DB "216595" NIL |pecocyc| 3714510499 NIL NIL)
+GENETIC-CODE - 11
+GENOME - NC_012660
+GENOME-UPDATE-DATE - 19-MAY-2017
+INFERENCE-STATS - (UNIPROT |pecocyc| 3744570837 (("deleted protein features" . 4) ("new protein features" . 7) ("proteins with new features" . 4)))
+INFERENCE-STATS - (GO |pecocyc| 3744570789 (("distinct" . 1387) ("genes >1 exp GO term" . 0) (">1 exp GO term" . 0) (">1 GO term" . 2983) ("protein/RNAs" . 6156)))
+INFERENCE-STATS - (GO |pecocyc| 3744570788 (("GO term annotations" . 14514)))
+INFERENCE-STATS - (PSORT |pecocyc| 3719020066 (("Proteins with PSORTdb localizations" . 0)))
+INFERENCE-STATS - (UNIPROT |pecocyc| 3719020066 (("deleted protein features" . 8198) ("new protein features" . 29) ("proteins with new features" . 6)))
+INFERENCE-STATS - (GO |pecocyc| 3719020029 (("distinct" . 6) ("genes >1 exp GO term" . 0) (">1 exp GO term" . 0) (">1 GO term" . 955) ("protein/RNAs" . 6157)))
+INFERENCE-STATS - (GO |pecocyc| 3719020029 (("GO term annotations" . 0)))
+INFERENCE-STATS - (PFAM |pecocyc| 3719020028 (("Pfam features created" . 7829)))
+INFERENCE-STATS - (TIP |pecocyc| 3719020019 (("multisubstrate transporters" . 0) ("low-probability transporters" . 386) ("high-probability transporters" . 25)))
+INFERENCE-STATS - (TIP |pecocyc| 3719020019 (("reactions imported during inference" . 0) ("reactions created during inference" . 0)))
+INFERENCE-STATS - (TIP |pecocyc| 3719020019 (("PTS complexes created" . 0)))
+INFERENCE-STATS - (TIP |pecocyc| 3719020019 (("ATP complexes created" . 0)))
+INFERENCE-STATS - (PSORT |pecocyc| 3716541385 (("Proteins with PSORTdb localizations" . 317)))
+INFERENCE-STATS - (UNIPROT |pecocyc| 3716541382 (("deleted protein features" . 0) ("new protein features" . 8743) ("proteins with new features" . 2464)))
+INFERENCE-STATS - (GO |pecocyc| 3716541241 (("distinct" . 1) ("genes >1 exp GO term" . 0) (">1 exp GO term" . 0) (">1 GO term" . 656) ("protein/RNAs" . 6157)))
+INFERENCE-STATS - (GO |pecocyc| 3716541241 (("GO term annotations" . 0)))
+INFERENCE-STATS - (TIP |pecocyc| 3716541234 (("multisubstrate transporters" . 17) ("low-probability transporters" . 386) ("high-probability transporters" . 270)))
+INFERENCE-STATS - (TIP |pecocyc| 3716541234 (("reactions imported during inference" . 28) ("reactions created during inference" . 96)))
+INFERENCE-STATS - (TIP |pecocyc| 3716541160 (("PTS complexes created" . 0)))
+INFERENCE-STATS - (TIP |pecocyc| 3716541160 (("ATP complexes created" . 49)))
+INFERENCE-STATS - (HF |pecocyc| 3716541138 (("Filled Pathway Holes" . 68) ("All Pathway Holes" . 108)))
+MITOCHONDRIAL-GENETIC-CODE - 0
+PGDB-AUTHORS - kaipa
+PGDB-AUTHORS - ong
+PGDB-AUTHORS - keseler
+PGDB-AUTHORS - kothari
+PGDB-AUTHORS - caspi
+PGDB-AUTHORS - pkarp
+PGDB-LAST-CONSISTENCY-CHECK - 3719020461
+PGDB-NAME - PFLU216595CYC
+PGDB-TIER - 3
+PGDB-UNIQUE-ID - 1G1K
+RANK - |strain|
+STRAIN-NAME - SBW25
+SYNONYMS - Pseudomonas fluorescens str. SBW25
+SYNONYMS - Pseudomonas fluorescens strain SBW25
+SYNONYMS - Pseudomonas fluorescens SBW25
+NCBI-TAXONOMY-ID - PRJNA224116

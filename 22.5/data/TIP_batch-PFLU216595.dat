@@ -1,0 +1,1272 @@
+(:VERSION 2 :FORMAT :FULL :USER |pecocyc| :UNIVERSAL-TIME 3719020019
+ :AEROBICITY UNKNOWN :PRIOR-PROTEIN-COUNT 6006 :GUI-OPTIONS NIL)
+(PFLU216595 :UNREVIEWED G1G1K-523-MONOMER NIL ((TRANS-RXN-116 TRANS-RXN-199)) (CYTOSINE) () PROTON IMPORT SECONDARY "permease" NIL NIL T (#<"G1G1K-523" instance frame in PFLU216595BASE[F]
+                                                                                                                                            @
+                                                                                                                                            #x101c4f729e2>) "cytosine permease")
+(PFLU216595 :UNREVIEWED G1G1K-2228-MONOMER NIL ((TRANS-RXN0-497
+                                                 TRANS-RXN-144)) (CA+2) () () IMPORT CHANNEL "channel" NIL NIL T (#<"G1G1K-2228" instance frame in PFLU216595BASE[F]
+                                                                                                                    @
+                                                                                                                    #x101c4cd56b2>) "calcium channel protein")
+(PFLU216595 :UNREVIEWED G1G1K-2064-MONOMER NIL ((RXN0-2261 RXN0-1684)) (FERRIC-CITRATE-COMPLEX) () () IMPORT UNKNOWN NIL NIL NIL T (#<"G1G1K-2064" instance frame in PFLU216595BASE[F]
+                                                                                                                                      @
+                                                                                                                                      #x101c4d63952>) "iron dicitrate transporter fecr")
+(PFLU216595 :UNREVIEWED G1G1K-5441-MONOMER NIL ((RXN0-2261 RXN0-1684)) (FERRIC-CITRATE-COMPLEX) () () IMPORT UNKNOWN NIL NIL NIL T (#<"G1G1K-5441" instance frame in PFLU216595BASE[F]
+                                                                                                                                      @
+                                                                                                                                      #x101c4a229c2>) "iron dicitrate transporter fecr")
+(PFLU216595 :UNREVIEWED G1G1K-5704-MONOMER NIL NIL () () () SYMPORT SECONDARY "symporter" NIL NIL T (#<"G1G1K-5704" instance frame in PFLU216595BASE[F]
+                                                                                                       @
+                                                                                                       #x101c46e6872>) "bile acid:sodium symporter")
+(PFLU216595 :UNREVIEWED G1G1K-1004-MONOMER NIL ((RXN-5076 TRANS-RXN-206)) (XANTHINE) () PROTON IMPORT SECONDARY "permease" NIL NIL T (#<"G1G1K-1004" instance frame in PFLU216595BASE[F]
+                                                                                                                                        @
+                                                                                                                                        #x101c4ed62e2>) "xanthine permease")
+(PFLU216595 :UNREVIEWED G1G1K-5720-MONOMER NIL ((RXN0-2261 RXN0-1684)) (FERRIC-CITRATE-COMPLEX) () () IMPORT UNKNOWN NIL NIL NIL T (#<"G1G1K-5720" instance frame in PFLU216595BASE[F]
+                                                                                                                                      @
+                                                                                                                                      #x101c46b9602>) "iron dicitrate transporter fecr")
+(PFLU216595 :UNREVIEWED G1G1K-8762-MONOMER NIL ((TRANS-RXN-116 TRANS-RXN-199)) (CYTOSINE) () PROTON IMPORT SECONDARY "permease" NIL NIL T (#<"G1G1K-8762" instance frame in PFLU216595BASE[F]
+                                                                                                                                             @
+                                                                                                                                             #x101c5e22922>) "cytosine permease")
+(PFLU216595 :UNREVIEWED G1G1K-3756-MONOMER NIL ((RXN0-2261 RXN0-1684)) (FERRIC-CITRATE-COMPLEX) () () IMPORT UNKNOWN NIL NIL NIL T (#<"G1G1K-3756" instance frame in PFLU216595BASE[F]
+                                                                                                                                      @
+                                                                                                                                      #x101c4868dc2>) "iron dicitrate transporter fecr")
+(PFLU216595 :UNREVIEWED G1G1K-8901-MONOMER NIL ((TRANS-RXN-129
+                                                 TRANS-RXN-130
+                                                 TRANS-RXN-101)) (NA+) () PROTON ANTIPORT SECONDARY "antiporter" NIL NIL T (#<"G1G1K-8901" instance frame in PFLU216595BASE[F]
+                                                                                                                              @
+                                                                                                                              #x101c5d456d2>) "sodium:proton antiporter")
+(PFLU216595 :UNREVIEWED G1G1K-3830-MONOMER NIL ((TRANS-RXN-143
+                                                 TRANS-RXN-190
+                                                 TRANS-RXN-187
+                                                 TRANS-RXN-186
+                                                 TRANS-RXN-185)) (K+) () () IMPORT UNKNOWN NIL NIL NIL T (#<"G1G1K-3830" instance frame in PFLU216595BASE[F]
+                                                                                                            @
+                                                                                                            #x101c4715d22>) "potassium transporter")
+(PFLU216595 :UNREVIEWED G1G1K-3168-MONOMER NIL ((TRANS-RXN-116 TRANS-RXN-199)) (CYTOSINE) () PROTON IMPORT SECONDARY "permease" NIL NIL T (#<"G1G1K-3168" instance frame in PFLU216595BASE[F]
+                                                                                                                                             @
+                                                                                                                                             #x101c4ac63c2>) "cytosine permease")
+(PFLU216595 :UNREVIEWED G1G1K-1756-MONOMER NIL ((TRANS-RXN-143
+                                                 TRANS-RXN-190
+                                                 TRANS-RXN-187
+                                                 TRANS-RXN-186
+                                                 TRANS-RXN-185)) (K+) () () IMPORT UNKNOWN NIL NIL NIL T (#<"G1G1K-1756" instance frame in PFLU216595BASE[F]
+                                                                                                            @
+                                                                                                            #x101c4de4962>) "potassium transporter kup")
+(PFLU216595 :UNREVIEWED G1G1K-3201-MONOMER NIL ((TRANS-RXN-129
+                                                 TRANS-RXN-130
+                                                 TRANS-RXN-101)) (NA+) () PROTON ANTIPORT SECONDARY "antiporter" NIL NIL T (#<"G1G1K-3201" instance frame in PFLU216595BASE[F]
+                                                                                                                              @
+                                                                                                                              #x101c4a0df42>) "sodium:proton antiporter")
+(PFLU216595 :UNREVIEWED G1G1K-1308-MONOMER NIL ((TRANS-RXN-237
+                                                 TRANS-RXN0-531)) (|Lipopolysaccharides|) () () IMPORT UNKNOWN NIL NIL NIL T (#<"G1G1K-1308" instance frame in PFLU216595BASE[F]
+                                                                                                                                @
+                                                                                                                                #x101c4e6e0a2>) "lipopolysaccharide transport periplasmic protein lpta")
+(PFLU216595 :UNREVIEWED G1G1K-6901-MONOMER NIL NIL () () () SYMPORT SECONDARY "symporter" NIL NIL T (#<"G1G1K-6901" instance frame in PFLU216595BASE[F]
+                                                                                                       @
+                                                                                                       #x101c60277b2>) "sodium:solute symporter")
+(PFLU216595 :UNREVIEWED G1G1K-9211-MONOMER NIL ((TRANS-RXN0-497
+                                                 TRANS-RXN-144)) (CA+2) () () IMPORT UNKNOWN NIL NIL NIL T (#<"G1G1K-9211" instance frame in PFLU216595BASE[F]
+                                                                                                              @
+                                                                                                              #x101c5b35da2>) "calcium transporter chac")
+(PFLU216595 :UNREVIEWED G1G1K-5907-MONOMER NIL ((TRANS-RXN-129
+                                                 TRANS-RXN-130
+                                                 TRANS-RXN-101)) (NA+) () PROTON ANTIPORT SECONDARY "antiporter" NIL NIL T (#<"G1G1K-5907" instance frame in PFLU216595BASE[F]
+                                                                                                                              @
+                                                                                                                              #x101c430fe42>) "na+/h+ antiporter subunit c")
+(PFLU216595 :UNREVIEWED G1G1K-5909-MONOMER NIL ((TRANS-RXN-129
+                                                 TRANS-RXN-130
+                                                 TRANS-RXN-101)) (NA+) () PROTON ANTIPORT SECONDARY "antiporter" NIL NIL T (#<"G1G1K-5909" instance frame in PFLU216595BASE[F]
+                                                                                                                              @
+                                                                                                                              #x101c4307d42>) "na+/h+ antiporter subunit e")
+(PFLU216595 :UNREVIEWED G1G1K-5911-MONOMER NIL ((TRANS-RXN-129
+                                                 TRANS-RXN-130
+                                                 TRANS-RXN-101)) (NA+) () PROTON ANTIPORT SECONDARY "antiporter" NIL NIL T (#<"G1G1K-5911" instance frame in PFLU216595BASE[F]
+                                                                                                                              @
+                                                                                                                              #x101c4302992>) "na+/h+ antiporter subunit g")
+(PFLU216595 :UNREVIEWED G1G1K-2615-MONOMER NIL ((TRANS-RXN-129
+                                                 TRANS-RXN-130
+                                                 TRANS-RXN-101)) (NA+) () PROTON ANTIPORT SECONDARY "antiporter" NIL NIL T (#<"G1G1K-2615" instance frame in PFLU216595BASE[F]
+                                                                                                                              @
+                                                                                                                              #x101c46cfb12>) "sodium:proton antiporter")
+(PFLU216595 :UNREVIEWED G1G1K-1851-MONOMER NIL ((TRANS-RXN-129
+                                                 TRANS-RXN-130
+                                                 TRANS-RXN-101)) (NA+) () PROTON ANTIPORT SECONDARY "antiporter" NIL NIL T (#<"G1G1K-1851" instance frame in PFLU216595BASE[F]
+                                                                                                                              @
+                                                                                                                              #x101c4dc7072>) "na+/h+ antiporter")
+(PFLU216595 :UNREVIEWED G1G1K-4828-MONOMER NIL ((TRANS-RXN-129
+                                                 TRANS-RXN-130
+                                                 TRANS-RXN-101)) (NA+) () PROTON ANTIPORT SECONDARY "antiporter" NIL NIL T (#<"G1G1K-4828" instance frame in PFLU216595BASE[F]
+                                                                                                                              @
+                                                                                                                              #x101c5fcd242>) "sodium:proton antiporter")
+(PFLU216595 :UNREVIEWED G1G1K-1955-MONOMER NIL ((TRANS-RXN-129
+                                                 TRANS-RXN-130
+                                                 TRANS-RXN-101)) (NA+) () PROTON ANTIPORT SECONDARY "antiporter" NIL NIL T (#<"G1G1K-1955" instance frame in PFLU216595BASE[F]
+                                                                                                                              @
+                                                                                                                              #x101c4d9dd22>) "na+/h+ antiporter nhaa")
+(PFLU216595 :UNREVIEWED G1G1K-22-MONOMER NIL ((TRANS-RXN-143
+                                               TRANS-RXN-190
+                                               TRANS-RXN-187
+                                               TRANS-RXN-186
+                                               TRANS-RXN-185)) (K+) () () IMPORT UNKNOWN NIL NIL NIL T (#<"G1G1K-22" instance frame in PFLU216595BASE[F]
+                                                                                                          @
+                                                                                                          #x101c44cb292>) "trk system potassium transport protein trka")
+(PFLU216595 :UNREVIEWED G1G1K-7439-MONOMER NIL ((TRANS-RXN-143
+                                                 TRANS-RXN-190
+                                                 TRANS-RXN-187
+                                                 TRANS-RXN-186
+                                                 TRANS-RXN-185)) (K+) () () IMPORT UNKNOWN NIL NIL NIL T (#<"G1G1K-7439" instance frame in PFLU216595BASE[F]
+                                                                                                            @
+                                                                                                            #x101c593fbc2>) "potassium transporter trkh")
+(PFLU216595 :UNREVIEWED G1G1K-6289-MONOMER NIL ((RXN0-2261 RXN0-1684)) (FERRIC-CITRATE-COMPLEX) () () IMPORT UNKNOWN NIL NIL NIL T (#<"G1G1K-6289" instance frame in PFLU216595BASE[F]
+                                                                                                                                      @
+                                                                                                                                      #x101c4ca82b2>) "iron dicitrate transporter")
+(PFLU216595 :UNREVIEWED G1G1K-7645-MONOMER NIL NIL () () PROTON EXPORT SECONDARY "rnd" NIL NIL T (#<"G1G1K-7645" instance frame in PFLU216595BASE[F]
+                                                                                                    @
+                                                                                                    #x101c49213e2>) "mexh family multidrug efflux rnd transporter periplasmic adaptor subunit")
+(PFLU216595 :UNREVIEWED G1G1K-4359-MONOMER NIL NIL () () () IMPORT UNKNOWN NIL NIL NIL T (#<"G1G1K-4359" instance frame in PFLU216595BASE[F]
+                                                                                            @
+                                                                                            #x101c4b3a632>) "multidrug transporter subunit mdta")
+(PFLU216595 :UNREVIEWED G1G1K-7646-MONOMER NIL NIL () () () EXPORT UNKNOWN NIL NIL NIL T (#<"G1G1K-7646" instance frame in PFLU216595BASE[F]
+                                                                                            @
+                                                                                            #x101c491f3b2>) "multidrug efflux protein")
+(PFLU216595 :UNREVIEWED G1G1K-4360-MONOMER NIL NIL () () () IMPORT UNKNOWN NIL NIL NIL T (#<"G1G1K-4360" instance frame in PFLU216595BASE[F]
+                                                                                            @
+                                                                                            #x101c4b35bf2>) "multidrug transporter subunit mdtb")
+(PFLU216595 :UNREVIEWED G1G1K-434-MONOMER NIL NIL () () () IMPORT ATP "abc" NIL NIL T (#<"G1G1K-434" instance frame in PFLU216595BASE[F]
+                                                                                         @
+                                                                                         #x101c4f8c892>) "abc transporter permease")
+(PFLU216595 :UNREVIEWED G1G1K-435-MONOMER NIL NIL () () () IMPORT ATP "abc" NIL NIL T (#<"G1G1K-435" instance frame in PFLU216595BASE[F]
+                                                                                         @
+                                                                                         #x101c4f8c462>) "abc transporter permease")
+(PFLU216595 :UNREVIEWED G1G1K-2018-MONOMER NIL NIL () () () EXPORT UNKNOWN NIL NIL NIL T (#<"G1G1K-2018" instance frame in PFLU216595BASE[F]
+                                                                                            @
+                                                                                            #x101c4d7c082>) "adec/adek/oprm family multidrug efflux complex outer membrane factor")
+(PFLU216595 :UNREVIEWED G1G1K-6394-MONOMER NIL NIL () () PROTON IMPORT SECONDARY "mfs" NIL NIL T (#<"G1G1K-6394" instance frame in PFLU216595BASE[F]
+                                                                                                    @
+                                                                                                    #x101c4ab1bb2>) "mfs transporter")
+(PFLU216595 :UNREVIEWED G1G1K-2172-MONOMER NIL NIL () () () IMPORT ATP "abc" NIL NIL T (#<"G1G1K-2172" instance frame in PFLU216595BASE[F]
+                                                                                          @
+                                                                                          #x101c4d12b32>) "abc transporter substrate-binding protein")
+(PFLU216595 :UNREVIEWED G1G1K-2019-MONOMER NIL NIL () () PROTON EXPORT SECONDARY "rnd" NIL NIL T (#<"G1G1K-2019" instance frame in PFLU216595BASE[F]
+                                                                                                    @
+                                                                                                    #x101c4d7b9a2>) "multidrug efflux rnd transporter permease subunit")
+(PFLU216595 :UNREVIEWED G1G1K-4365-MONOMER NIL NIL () () PROTON IMPORT SECONDARY "rnd" NIL NIL T (#<"G1G1K-4365" instance frame in PFLU216595BASE[F]
+                                                                                                    @
+                                                                                                    #x101c4b20252>) "rnd transporter")
+(PFLU216595 :UNREVIEWED G1G1K-453-MONOMER NIL NIL () () PROTON IMPORT SECONDARY "mfs" NIL NIL T (#<"G1G1K-453" instance frame in PFLU216595BASE[F]
+                                                                                                   @
+                                                                                                   #x101c4f87442>) "mfs transporter")
+(PFLU216595 :UNREVIEWED G1G1K-2173-MONOMER NIL NIL () () PROTON IMPORT SECONDARY "mfs" NIL NIL T (#<"G1G1K-2173" instance frame in PFLU216595BASE[F]
+                                                                                                    @
+                                                                                                    #x101c4d118e2>) "mfs transporter")
+(PFLU216595 :UNREVIEWED G1G1K-5375-MONOMER NIL NIL () () PROTON IMPORT SECONDARY "rnd" NIL NIL T (#<"G1G1K-5375" instance frame in PFLU216595BASE[F]
+                                                                                                    @
+                                                                                                    #x101c58da812>) "rnd transporter")
+(PFLU216595 :UNREVIEWED G1G1K-470-MONOMER NIL NIL () () () EXPORT UNKNOWN NIL NIL NIL T (#<"G1G1K-470" instance frame in PFLU216595BASE[F]
+                                                                                           @
+                                                                                           #x101c4f823a2>) "protein-export protein secb")
+(PFLU216595 :UNREVIEWED G1G1K-7660-MONOMER NIL NIL () () PROTON IMPORT SECONDARY "mfs" NIL NIL T (#<"G1G1K-7660" instance frame in PFLU216595BASE[F]
+                                                                                                    @
+                                                                                                    #x101c48e7ba2>) "ampg family muropeptide mfs transporter")
+(PFLU216595 :UNREVIEWED G1G1K-2757-MONOMER NIL NIL () () () IMPORT ATP "abc" NIL NIL T (#<"G1G1K-2757" instance frame in PFLU216595BASE[F]
+                                                                                          @
+                                                                                          #x101c4431832>) "abc transporter substrate-binding protein")
+(PFLU216595 :UNREVIEWED G1G1K-2179-MONOMER NIL NIL () () PROTON IMPORT SECONDARY "mfs" NIL NIL T (#<"G1G1K-2179" instance frame in PFLU216595BASE[F]
+                                                                                                    @
+                                                                                                    #x101c4d0b792>) "mfs transporter")
+(PFLU216595 :UNREVIEWED G1G1K-525-MONOMER NIL NIL () () () IMPORT ATP "abc" NIL NIL T (#<"G1G1K-525" instance frame in PFLU216595BASE[F]
+                                                                                         @
+                                                                                         #x101c4f72012>) "abc transporter permease")
+(PFLU216595 :UNREVIEWED G1G1K-4966-MONOMER NIL NIL () () () IMPORT ATP "abc" NIL NIL T (#<"G1G1K-4966" instance frame in PFLU216595BASE[F]
+                                                                                          @
+                                                                                          #x101c5e05c72>) "abc transporter atp-binding protein")
+(PFLU216595 :UNREVIEWED G1G1K-3646-MONOMER NIL NIL () () PROTON IMPORT SECONDARY "mfs" NIL NIL T (#<"G1G1K-3646" instance frame in PFLU216595BASE[F]
+                                                                                                    @
+                                                                                                    #x101c4a59742>) "mfs transporter")
+(PFLU216595 :UNREVIEWED G1G1K-2032-MONOMER NIL NIL () () PROTON IMPORT SECONDARY "mfs" NIL NIL T (#<"G1G1K-2032" instance frame in PFLU216595BASE[F]
+                                                                                                    @
+                                                                                                    #x101c4d74632>) "mfs transporter")
+(PFLU216595 :UNREVIEWED G1G1K-2188-MONOMER NIL NIL () () PROTON IMPORT SECONDARY "mfs" NIL NIL T (#<"G1G1K-2188" instance frame in PFLU216595BASE[F]
+                                                                                                    @
+                                                                                                    #x101c4d01952>) "mfs transporter")
+(PFLU216595 :UNREVIEWED G1G1K-5601-MONOMER NIL NIL () () () IMPORT ATP "abc" NIL NIL T (#<"G1G1K-5601" instance frame in PFLU216595BASE[F]
+                                                                                          @
+                                                                                          #x101c4833d72>) "abc transporter substrate-binding protein")
+(PFLU216595 :UNREVIEWED G1G1K-7715-MONOMER NIL NIL () () PROTON IMPORT SECONDARY "mfs" NIL NIL T (#<"G1G1K-7715" instance frame in PFLU216595BASE[F]
+                                                                                                    @
+                                                                                                    #x101c4844d22>) "mfs transporter")
+(PFLU216595 :UNREVIEWED G1G1K-4970-MONOMER NIL NIL () () PROTON IMPORT SECONDARY "mfs" NIL NIL T (#<"G1G1K-4970" instance frame in PFLU216595BASE[F]
+                                                                                                    @
+                                                                                                    #x101c5df8942>) "mfs transporter")
+(PFLU216595 :UNREVIEWED G1G1K-6457-MONOMER NIL NIL () () PROTON IMPORT SECONDARY "mfs" NIL NIL T (#<"G1G1K-6457" instance frame in PFLU216595BASE[F]
+                                                                                                    @
+                                                                                                    #x101c49c45b2>) "mfs transporter")
+(PFLU216595 :UNREVIEWED G1G1K-4383-MONOMER NIL NIL () () PROTON IMPORT SECONDARY "mfs" NIL NIL T (#<"G1G1K-4383" instance frame in PFLU216595BASE[F]
+                                                                                                    @
+                                                                                                    #x101c4ad1ab2>) "mfs transporter")
+(PFLU216595 :UNREVIEWED G1G1K-6464-MONOMER NIL NIL () () () IMPORT ATP "abc" NIL NIL T (#<"G1G1K-6464" instance frame in PFLU216595BASE[F]
+                                                                                          @
+                                                                                          #x101c49989a2>) "abc transporter substrate-binding protein")
+(PFLU216595 :UNREVIEWED G1G1K-6465-MONOMER NIL NIL () () () IMPORT ATP "abc" NIL NIL T (#<"G1G1K-6465" instance frame in PFLU216595BASE[F]
+                                                                                          @
+                                                                                          #x101c49961a2>) "iron abc transporter permease")
+(PFLU216595 :UNREVIEWED G1G1K-7734-MONOMER NIL NIL () () () IMPORT PTS "pts" NIL NIL T (#<"G1G1K-7734" instance frame in PFLU216595BASE[F]
+                                                                                          @
+                                                                                          #x101c48002b2>) "pts transporter subunit iibc")
+(PFLU216595 :UNREVIEWED G1G1K-612-MONOMER NIL NIL () () PROTON IMPORT SECONDARY "mfs" NIL NIL T (#<"G1G1K-612" instance frame in PFLU216595BASE[F]
+                                                                                                   @
+                                                                                                   #x101c4f57732>) "mfs transporter")
+(PFLU216595 :UNREVIEWED G1G1K-6466-MONOMER NIL NIL () () () IMPORT ATP "abc" NIL NIL T (#<"G1G1K-6466" instance frame in PFLU216595BASE[F]
+                                                                                          @
+                                                                                          #x101c49911c2>) "abc transporter atp-binding protein")
+(PFLU216595 :UNREVIEWED G1G1K-645-MONOMER NIL NIL () () () IMPORT CHANNEL "channel" NIL NIL T (#<"G1G1K-645" instance frame in PFLU216595BASE[F]
+                                                                                                 @
+                                                                                                 #x101c4f4ca52>) "mechanosensitive channel msck")
+(PFLU216595 :UNREVIEWED G1G1K-8628-MONOMER NIL NIL () () () IMPORT ATP "abc" NIL NIL T (#<"G1G1K-8628" instance frame in PFLU216595BASE[F]
+                                                                                          @
+                                                                                          #x101c5efa9d2>) "abc transporter substrate-binding protein")
+(PFLU216595 :UNREVIEWED G1G1K-2224-MONOMER NIL NIL () () PROTON IMPORT SECONDARY "mfs" NIL NIL T (#<"G1G1K-2224" instance frame in PFLU216595BASE[F]
+                                                                                                    @
+                                                                                                    #x101c4cd9c02>) "mfs transporter")
+(PFLU216595 :UNREVIEWED G1G1K-6490-MONOMER NIL NIL () () PROTON IMPORT SECONDARY "mfs" NIL NIL T (#<"G1G1K-6490" instance frame in PFLU216595BASE[F]
+                                                                                                    @
+                                                                                                    #x101c48f8422>) "mfs transporter")
+(PFLU216595 :UNREVIEWED G1G1K-4980-MONOMER NIL NIL () () PROTON IMPORT SECONDARY "mfs" NIL NIL T (#<"G1G1K-4980" instance frame in PFLU216595BASE[F]
+                                                                                                    @
+                                                                                                    #x101c5dd9b12>) "mfs transporter")
+(PFLU216595 :UNREVIEWED G1G1K-3672-MONOMER NIL NIL () () PROTON IMPORT SECONDARY "mfs" NIL NIL T (#<"G1G1K-3672" instance frame in PFLU216595BASE[F]
+                                                                                                    @
+                                                                                                    #x101c49e3d22>) "mfs transporter")
+(PFLU216595 :UNREVIEWED G1G1K-681-MONOMER NIL NIL () () () IMPORT ATP "abc" NIL NIL T (#<"G1G1K-681" instance frame in PFLU216595BASE[F]
+                                                                                         @
+                                                                                         #x101c4f41b42>) "abc transporter permease")
+(PFLU216595 :UNREVIEWED G1G1K-1641-MONOMER NIL NIL () () () IMPORT UNKNOWN NIL NIL NIL T (#<"G1G1K-1641" instance frame in PFLU216595BASE[F]
+                                                                                            @
+                                                                                            #x101c4e07b12>) "transporter")
+(PFLU216595 :UNREVIEWED G1G1K-2769-MONOMER NIL NIL () () () IMPORT UNKNOWN NIL NIL NIL T (#<"G1G1K-2769" instance frame in PFLU216595BASE[F]
+                                                                                            @
+                                                                                            #x101c43fc632>) "ai-2e family transporter")
+(PFLU216595 :UNREVIEWED G1G1K-2061-MONOMER NIL NIL () () () IMPORT UNKNOWN NIL NIL NIL T (#<"G1G1K-2061" instance frame in PFLU216595BASE[F]
+                                                                                            @
+                                                                                            #x101c4d654e2>) "eama family transporter")
+(PFLU216595 :UNREVIEWED G1G1K-1642-MONOMER NIL NIL () () () IMPORT UNKNOWN NIL NIL NIL T (#<"G1G1K-1642" instance frame in PFLU216595BASE[F]
+                                                                                            @
+                                                                                            #x101c4e07712>) "transporter")
+(PFLU216595 :UNREVIEWED G1G1K-725-MONOMER NIL NIL () () () IMPORT CHANNEL "channel" NIL NIL T (#<"G1G1K-725" instance frame in PFLU216595BASE[F]
+                                                                                                 @
+                                                                                                 #x101c4f324d2>) "channel protein tolc")
+(PFLU216595 :UNREVIEWED G1G1K-5646-MONOMER NIL NIL () () () IMPORT ATP "abc" NIL NIL T (#<"G1G1K-5646" instance frame in PFLU216595BASE[F]
+                                                                                          @
+                                                                                          #x101c479c992>) "abc transporter")
+(PFLU216595 :UNREVIEWED G1G1K-6531-MONOMER NIL NIL () () PROTON IMPORT SECONDARY "mfs" NIL NIL T (#<"G1G1K-6531" instance frame in PFLU216595BASE[F]
+                                                                                                    @
+                                                                                                    #x101c47e6cc2>) "mfs transporter")
+(PFLU216595 :UNREVIEWED G1G1K-776-MONOMER NIL NIL () () () IMPORT ATP "abc" NIL NIL T (#<"G1G1K-776" instance frame in PFLU216595BASE[F]
+                                                                                         @
+                                                                                         #x101c4f22f92>) "iron abc transporter permease")
+(PFLU216595 :UNREVIEWED G1G1K-777-MONOMER NIL NIL () () () IMPORT ATP "abc" NIL NIL T (#<"G1G1K-777" instance frame in PFLU216595BASE[F]
+                                                                                         @
+                                                                                         #x101c4f22a92>) "iron abc transporter substrate-binding protein")
+(PFLU216595 :UNREVIEWED G1G1K-5648-MONOMER NIL NIL () () () IMPORT ATP "abc" NIL NIL T (#<"G1G1K-5648" instance frame in PFLU216595BASE[F]
+                                                                                          @
+                                                                                          #x101c4793cf2>) "abc transporter substrate-binding protein")
+(PFLU216595 :UNREVIEWED G1G1K-5652-MONOMER NIL NIL () () () IMPORT ATP "abc" NIL NIL T (#<"G1G1K-5652" instance frame in PFLU216595BASE[F]
+                                                                                          @
+                                                                                          #x101c47889f2>) "abc transporter substrate-binding protein")
+(PFLU216595 :UNREVIEWED G1G1K-5653-MONOMER NIL NIL () () () IMPORT ATP "abc" NIL NIL T (#<"G1G1K-5653" instance frame in PFLU216595BASE[F]
+                                                                                          @
+                                                                                          #x101c47875a2>) "abc transporter substrate-binding protein")
+(PFLU216595 :UNREVIEWED G1G1K-824-MONOMER NIL NIL () () () IMPORT ATP "abc" NIL NIL T (#<"G1G1K-824" instance frame in PFLU216595BASE[F]
+                                                                                         @
+                                                                                         #x101c4f144c2>) "abc transporter atp-binding protein")
+(PFLU216595 :UNREVIEWED G1G1K-825-MONOMER NIL NIL () () () IMPORT ATP "abc" NIL NIL T (#<"G1G1K-825" instance frame in PFLU216595BASE[F]
+                                                                                         @
+                                                                                         #x101c4f13f42>) "abc transporter atp-binding protein")
+(PFLU216595 :UNREVIEWED G1G1K-2073-MONOMER NIL NIL () () PROTON IMPORT SECONDARY "mfs" NIL NIL T (#<"G1G1K-2073" instance frame in PFLU216595BASE[F]
+                                                                                                    @
+                                                                                                    #x101c4d5e232>) "mfs transporter")
+(PFLU216595 :UNREVIEWED G1G1K-847-MONOMER NIL NIL () () () IMPORT UNKNOWN NIL NIL NIL T (#<"G1G1K-847" instance frame in PFLU216595BASE[F]
+                                                                                           @
+                                                                                           #x101c4f0d4e2>) "eama/rhat family transporter")
+(PFLU216595 :UNREVIEWED G1G1K-5688-MONOMER NIL NIL () () () IMPORT ATP "abc" NIL NIL T (#<"G1G1K-5688" instance frame in PFLU216595BASE[F]
+                                                                                          @
+                                                                                          #x101c4719592>) "abc transporter permease")
+(PFLU216595 :UNREVIEWED G1G1K-4419-MONOMER NIL NIL () () () IMPORT ATP "abc" NIL NIL T (#<"G1G1K-4419" instance frame in PFLU216595BASE[F]
+                                                                                          @
+                                                                                          #x101c4a07512>) "abc transporter permease")
+(PFLU216595 :UNREVIEWED G1G1K-8679-MONOMER NIL NIL () () () IMPORT UNKNOWN NIL NIL NIL T (#<"G1G1K-8679" instance frame in PFLU216595BASE[F]
+                                                                                            @
+                                                                                            #x101c5eaad12>) "transporter")
+(PFLU216595 :UNREVIEWED G1G1K-871-MONOMER NIL NIL () () () IMPORT ATP "abc" NIL NIL T (#<"G1G1K-871" instance frame in PFLU216595BASE[F]
+                                                                                         @
+                                                                                         #x101c4f06112>) "abc transporter atp-binding protein")
+(PFLU216595 :UNREVIEWED G1G1K-6557-MONOMER NIL NIL () () PROTON IMPORT SECONDARY "mfs" NIL NIL T (#<"G1G1K-6557" instance frame in PFLU216595BASE[F]
+                                                                                                    @
+                                                                                                    #x101c473a002>) "mfs transporter")
+(PFLU216595 :UNREVIEWED G1G1K-872-MONOMER NIL NIL () () () IMPORT ATP "abc" NIL NIL T (#<"G1G1K-872" instance frame in PFLU216595BASE[F]
+                                                                                         @
+                                                                                         #x101c4f05ac2>) "abc transporter atp-binding protein")
+(PFLU216595 :UNREVIEWED G1G1K-4262-MONOMER NIL NIL () () () IMPORT UNKNOWN NIL NIL NIL T (#<"G1G1K-4262" instance frame in PFLU216595BASE[F]
+                                                                                            @
+                                                                                            #x101c60dd8b2>) "nuclear transport factor 2 family protein")
+(PFLU216595 :UNREVIEWED G1G1K-878-MONOMER NIL NIL () () () IMPORT ATP "abc" NIL NIL T (#<"G1G1K-878" instance frame in PFLU216595BASE[F]
+                                                                                         @
+                                                                                         #x101c4f03812>) "iron abc transporter permease")
+(PFLU216595 :UNREVIEWED G1G1K-879-MONOMER NIL NIL () () () IMPORT ATP "abc" NIL NIL T (#<"G1G1K-879" instance frame in PFLU216595BASE[F]
+                                                                                         @
+                                                                                         #x101c4f033c2>) "iron abc transporter substrate-binding protein")
+(PFLU216595 :UNREVIEWED G1G1K-880-MONOMER NIL NIL () () () IMPORT ATP "abc" NIL NIL T (#<"G1G1K-880" instance frame in PFLU216595BASE[F]
+                                                                                         @
+                                                                                         #x101c4f02fa2>) "abc transporter atp-binding protein")
+(PFLU216595 :UNREVIEWED G1G1K-4421-MONOMER NIL NIL () () () IMPORT UNKNOWN NIL NIL NIL T (#<"G1G1K-4421" instance frame in PFLU216595BASE[F]
+                                                                                            @
+                                                                                            #x101c49f6542>) "transporter")
+(PFLU216595 :UNREVIEWED G1G1K-8700-MONOMER NIL NIL () () () IMPORT UNKNOWN NIL NIL NIL T (#<"G1G1K-8700" instance frame in PFLU216595BASE[F]
+                                                                                            @
+                                                                                            #x101c5e8ab42>) "eama family transporter")
+(PFLU216595 :UNREVIEWED G1G1K-6563-MONOMER NIL NIL () () PROTON IMPORT SECONDARY "mfs" NIL NIL T (#<"G1G1K-6563" instance frame in PFLU216595BASE[F]
+                                                                                                    @
+                                                                                                    #x101c47126a2>) "mfs transporter")
+(PFLU216595 :UNREVIEWED G1G1K-2078-MONOMER NIL NIL () () PROTON IMPORT SECONDARY "mfs" NIL NIL T (#<"G1G1K-2078" instance frame in PFLU216595BASE[F]
+                                                                                                    @
+                                                                                                    #x101c4d5b652>) "mfs transporter")
+(PFLU216595 :UNREVIEWED G1G1K-2079-MONOMER NIL NIL () () () IMPORT UNKNOWN NIL NIL NIL T (#<"G1G1K-2079" instance frame in PFLU216595BASE[F]
+                                                                                            @
+                                                                                            #x101c4d5ac32>) "eama-like transporter family protein")
+(PFLU216595 :UNREVIEWED G1G1K-4431-MONOMER NIL NIL () () PROTON IMPORT SECONDARY "mfs" NIL NIL T (#<"G1G1K-4431" instance frame in PFLU216595BASE[F]
+                                                                                                    @
+                                                                                                    #x101c49a04f2>) "mfs transporter")
+(PFLU216595 :UNREVIEWED G1G1K-5453-MONOMER NIL NIL () () () IMPORT ATP "abc" NIL NIL T (#<"G1G1K-5453" instance frame in PFLU216595BASE[F]
+                                                                                          @
+                                                                                          #x101c49fc9f2>) "abc transporter atp-binding protein")
+(PFLU216595 :UNREVIEWED G1G1K-3738-MONOMER NIL NIL () () PROTON IMPORT SECONDARY "mfs" NIL NIL T (#<"G1G1K-3738" instance frame in PFLU216595BASE[F]
+                                                                                                    @
+                                                                                                    #x101c48b8ea2>) "mfs transporter")
+(PFLU216595 :UNREVIEWED G1G1K-5454-MONOMER NIL NIL () () () IMPORT ATP "abc" NIL NIL T (#<"G1G1K-5454" instance frame in PFLU216595BASE[F]
+                                                                                          @
+                                                                                          #x101c49fad92>) "abc transporter permease")
+(PFLU216595 :UNREVIEWED G1G1K-937-MONOMER NIL NIL () () () EXPORT UNKNOWN NIL NIL NIL T (#<"G1G1K-937" instance frame in PFLU216595BASE[F]
+                                                                                           @
+                                                                                           #x101c4eef442>) "mate family efflux transporter")
+(PFLU216595 :UNREVIEWED G1G1K-5455-MONOMER NIL NIL () () () IMPORT ATP "abc" NIL NIL T (#<"G1G1K-5455" instance frame in PFLU216595BASE[F]
+                                                                                          @
+                                                                                          #x101c49f8ea2>) "abc transporter permease")
+(PFLU216595 :UNREVIEWED G1G1K-5456-MONOMER NIL NIL () () () IMPORT ATP "abc" NIL NIL T (#<"G1G1K-5456" instance frame in PFLU216595BASE[F]
+                                                                                          @
+                                                                                          #x101c49f5372>) "abc transporter substrate-binding protein")
+(PFLU216595 :UNREVIEWED G1G1K-8718-MONOMER NIL NIL () () () IMPORT ATP "abc" NIL NIL T (#<"G1G1K-8718" instance frame in PFLU216595BASE[F]
+                                                                                          @
+                                                                                          #x101c5e6c462>) "abc transporter permease")
+(PFLU216595 :UNREVIEWED G1G1K-5706-MONOMER NIL NIL () () PROTON IMPORT SECONDARY "mfs" NIL NIL T (#<"G1G1K-5706" instance frame in PFLU216595BASE[F]
+                                                                                                    @
+                                                                                                    #x101c46e1482>) "mfs transporter")
+(PFLU216595 :UNREVIEWED G1G1K-6590-MONOMER NIL NIL () () () IMPORT ATP "abc" NIL NIL T (#<"G1G1K-6590" instance frame in PFLU216595BASE[F]
+                                                                                          @
+                                                                                          #x101c466cdd2>) "abc transporter atp-binding protein")
+(PFLU216595 :UNREVIEWED G1G1K-2085-MONOMER NIL NIL () () PROTON IMPORT SECONDARY "permease" NIL NIL T (#<"G1G1K-2085" instance frame in PFLU216595BASE[F]
+                                                                                                         @
+                                                                                                         #x101c4d57602>) "low affinity iron permease family protein")
+(PFLU216595 :UNREVIEWED G1G1K-1682-MONOMER NIL NIL () () () IMPORT ATP "abc" NIL NIL T (#<"G1G1K-1682" instance frame in PFLU216595BASE[F]
+                                                                                          @
+                                                                                          #x101c4dfbbd2>) "abc transporter atp-binding protein")
+(PFLU216595 :UNREVIEWED G1G1K-6599-MONOMER NIL NIL () () () IMPORT UNKNOWN NIL NIL NIL T (#<"G1G1K-6599" instance frame in PFLU216595BASE[F]
+                                                                                            @
+                                                                                            #x101c4636072>) "eama family transporter")
+(PFLU216595 :UNREVIEWED G1G1K-5717-MONOMER NIL NIL () () () IMPORT ATP "abc" NIL NIL T (#<"G1G1K-5717" instance frame in PFLU216595BASE[F]
+                                                                                          @
+                                                                                          #x101c46c2c82>) "abc transporter atp-binding protein")
+(PFLU216595 :UNREVIEWED G1G1K-5718-MONOMER NIL NIL () () () IMPORT ATP "abc" NIL NIL T (#<"G1G1K-5718" instance frame in PFLU216595BASE[F]
+                                                                                          @
+                                                                                          #x101c46c0432>) "abc transporter atp-binding protein")
+(PFLU216595 :UNREVIEWED G1G1K-1035-MONOMER NIL NIL () () PROTON IMPORT SECONDARY "mfs" NIL NIL T (#<"G1G1K-1035" instance frame in PFLU216595BASE[F]
+                                                                                                    @
+                                                                                                    #x101c4ecd7f2>) "mfs transporter")
+(PFLU216595 :UNREVIEWED G1G1K-1042-MONOMER NIL NIL () () PROTON EXPORT SECONDARY "rnd" NIL NIL T (#<"G1G1K-1042" instance frame in PFLU216595BASE[F]
+                                                                                                    @
+                                                                                                    #x101c4ecb212>) "cusa/czca family heavy metal efflux rnd transporter")
+(PFLU216595 :UNREVIEWED G1G1K-2091-MONOMER NIL NIL () () PROTON IMPORT SECONDARY "mfs" NIL NIL T (#<"G1G1K-2091" instance frame in PFLU216595BASE[F]
+                                                                                                    @
+                                                                                                    #x101c4d53e72>) "mfs transporter")
+(PFLU216595 :UNREVIEWED G1G1K-2092-MONOMER NIL NIL () () PROTON IMPORT SECONDARY "mfs" NIL NIL T (#<"G1G1K-2092" instance frame in PFLU216595BASE[F]
+                                                                                                    @
+                                                                                                    #x101c4d53712>) "mfs transporter")
+(PFLU216595 :UNREVIEWED G1G1K-1062-MONOMER NIL NIL () () () EXPORT UNKNOWN NIL NIL NIL T (#<"G1G1K-1062" instance frame in PFLU216595BASE[F]
+                                                                                            @
+                                                                                            #x101c4ec4342>) "escr/yscr/hrcr family type iii secretion system export apparatus protein")
+(PFLU216595 :UNREVIEWED G1G1K-1063-MONOMER NIL NIL () () () EXPORT UNKNOWN NIL NIL NIL T (#<"G1G1K-1063" instance frame in PFLU216595BASE[F]
+                                                                                            @
+                                                                                            #x101c4ec3b12>) "escs/yscs/hrcs family type iii secretion system export apparatus protein")
+(PFLU216595 :UNREVIEWED G1G1K-1064-MONOMER NIL NIL () () () EXPORT UNKNOWN NIL NIL NIL T (#<"G1G1K-1064" instance frame in PFLU216595BASE[F]
+                                                                                            @
+                                                                                            #x101c4ec35a2>) "esct/ysct/hrct family type iii secretion system export apparatus protein")
+(PFLU216595 :UNREVIEWED G1G1K-1065-MONOMER NIL NIL () () () EXPORT UNKNOWN NIL NIL NIL T (#<"G1G1K-1065" instance frame in PFLU216595BASE[F]
+                                                                                            @
+                                                                                            #x101c4ec2eb2>) "escu/yscu/hrcu family type iii secretion system export apparatus switch protein")
+(PFLU216595 :UNREVIEWED G1G1K-6625-MONOMER NIL NIL () () PROTON IMPORT SECONDARY "mfs" NIL NIL T (#<"G1G1K-6625" instance frame in PFLU216595BASE[F]
+                                                                                                    @
+                                                                                                    #x101c45776e2>) "mfs transporter")
+(PFLU216595 :UNREVIEWED G1G1K-2291-MONOMER NIL NIL () () () EXPORT UNKNOWN NIL NIL NIL T (#<"G1G1K-2291" instance frame in PFLU216595BASE[F]
+                                                                                            @
+                                                                                            #x101c4c4b262>) "mate family efflux transporter")
+(PFLU216595 :UNREVIEWED G1G1K-7926-MONOMER NIL NIL () () () IMPORT UNKNOWN NIL NIL NIL T (#<"G1G1K-7926" instance frame in PFLU216595BASE[F]
+                                                                                            @
+                                                                                            #x101c453d232>) "eama/rhat family transporter")
+(PFLU216595 :UNREVIEWED G1G1K-2295-MONOMER NIL NIL () () () IMPORT ATP "abc" NIL NIL T (#<"G1G1K-2295" instance frame in PFLU216595BASE[F]
+                                                                                          @
+                                                                                          #x101c4c432d2>) "abc transporter atp-binding protein")
+(PFLU216595 :UNREVIEWED G1G1K-2299-MONOMER NIL NIL () () () IMPORT ATP "abc" NIL NIL T (#<"G1G1K-2299" instance frame in PFLU216595BASE[F]
+                                                                                          @
+                                                                                          #x101c4c387f2>) "abc transporter atp-binding protein")
+(PFLU216595 :UNREVIEWED G1G1K-3002-MONOMER NIL NIL () () PROTON IMPORT SECONDARY "mfs" NIL NIL T (#<"G1G1K-3002" instance frame in PFLU216595BASE[F]
+                                                                                                    @
+                                                                                                    #x101c6183642>) "mfs transporter")
+(PFLU216595 :UNREVIEWED G1G1K-4468-MONOMER NIL NIL () () PROTON IMPORT SECONDARY "mfs" NIL NIL T (#<"G1G1K-4468" instance frame in PFLU216595BASE[F]
+                                                                                                    @
+                                                                                                    #x101c484d1a2>) "mfs transporter")
+(PFLU216595 :UNREVIEWED G1G1K-1101-MONOMER NIL NIL () () () IMPORT UNKNOWN NIL NIL NIL T (#<"G1G1K-1101" instance frame in PFLU216595BASE[F]
+                                                                                            @
+                                                                                            #x101c4eb5aa2>) "nuclear transport factor 2 family protein")
+(PFLU216595 :UNREVIEWED G1G1K-6656-MONOMER NIL NIL () () PROTON IMPORT SECONDARY "permease" NIL NIL T (#<"G1G1K-6656" instance frame in PFLU216595BASE[F]
+                                                                                                         @
+                                                                                                         #x101c44afe62>) "ncs2 family permease")
+(PFLU216595 :UNREVIEWED G1G1K-2831-MONOMER NIL NIL () () () IMPORT ATP "abc" NIL NIL T (#<"G1G1K-2831" instance frame in PFLU216595BASE[F]
+                                                                                          @
+                                                                                          #x101c42f5422>) "abc transporter atp-binding protein")
+(PFLU216595 :UNREVIEWED G1G1K-8846-MONOMER NIL NIL () () PROTON IMPORT SECONDARY "mfs" NIL NIL T (#<"G1G1K-8846" instance frame in PFLU216595BASE[F]
+                                                                                                    @
+                                                                                                    #x101c5d9f002>) "mfs transporter")
+(PFLU216595 :UNREVIEWED G1G1K-3031-MONOMER NIL NIL () () PROTON IMPORT SECONDARY "mfs" NIL NIL T (#<"G1G1K-3031" instance frame in PFLU216595BASE[F]
+                                                                                                    @
+                                                                                                    #x101c61029d2>) "mfs transporter")
+(PFLU216595 :UNREVIEWED G1G1K-2832-MONOMER NIL NIL () () () IMPORT ATP "abc" NIL NIL T (#<"G1G1K-2832" instance frame in PFLU216595BASE[F]
+                                                                                          @
+                                                                                          #x101c42f2982>) "abc transporter permease")
+(PFLU216595 :UNREVIEWED G1G1K-3035-MONOMER NIL NIL () () () IMPORT UNKNOWN NIL NIL NIL T (#<"G1G1K-3035" instance frame in PFLU216595BASE[F]
+                                                                                            @
+                                                                                            #x101c60f2f02>) "bcct family transporter")
+(PFLU216595 :UNREVIEWED G1G1K-8857-MONOMER NIL NIL () () () IMPORT UNKNOWN NIL NIL NIL T (#<"G1G1K-8857" instance frame in PFLU216595BASE[F]
+                                                                                            @
+                                                                                            #x101c5d8b242>) "transporter-like membrane protein")
+(PFLU216595 :UNREVIEWED G1G1K-5778-MONOMER NIL NIL () () () IMPORT UNKNOWN NIL NIL NIL T (#<"G1G1K-5778" instance frame in PFLU216595BASE[F]
+                                                                                            @
+                                                                                            #x101c461f572>) "biopolymer transporter exbd")
+(PFLU216595 :UNREVIEWED G1G1K-5779-MONOMER NIL NIL () () () IMPORT UNKNOWN NIL NIL NIL T (#<"G1G1K-5779" instance frame in PFLU216595BASE[F]
+                                                                                            @
+                                                                                            #x101c461a742>) "biopolymer transporter exbb")
+(PFLU216595 :UNREVIEWED G1G1K-3809-MONOMER NIL NIL () () () IMPORT UNKNOWN NIL NIL NIL T (#<"G1G1K-3809" instance frame in PFLU216595BASE[F]
+                                                                                            @
+                                                                                            #x101c4770e12>) "biopolymer transporter exbb")
+(PFLU216595 :UNREVIEWED G1G1K-3061-MONOMER NIL NIL () () () IMPORT ATP "abc" NIL NIL T (#<"G1G1K-3061" instance frame in PFLU216595BASE[F]
+                                                                                          @
+                                                                                          #x101c607ebe2>) "abc transporter atp-binding protein")
+(PFLU216595 :UNREVIEWED G1G1K-3810-MONOMER NIL NIL () () () IMPORT UNKNOWN NIL NIL NIL T (#<"G1G1K-3810" instance frame in PFLU216595BASE[F]
+                                                                                            @
+                                                                                            #x101c476e712>) "biopolymer transporter exbd")
+(PFLU216595 :UNREVIEWED G1G1K-3062-MONOMER NIL NIL () () () IMPORT ATP "abc" NIL NIL T (#<"G1G1K-3062" instance frame in PFLU216595BASE[F]
+                                                                                          @
+                                                                                          #x101c607a292>) "abc transporter permease")
+(PFLU216595 :UNREVIEWED G1G1K-3063-MONOMER NIL NIL () () () IMPORT ATP "abc" NIL NIL T (#<"G1G1K-3063" instance frame in PFLU216595BASE[F]
+                                                                                          @
+                                                                                          #x101c6075672>) "abc transporter permease")
+(PFLU216595 :UNREVIEWED G1G1K-6695-MONOMER NIL NIL () () () IMPORT CHANNEL "channel" NIL NIL T (#<"G1G1K-6695" instance frame in PFLU216595BASE[F]
+                                                                                                  @
+                                                                                                  #x101c43bafd2>) "mechanosensitive ion channel protein")
+(PFLU216595 :UNREVIEWED G1G1K-2838-MONOMER NIL NIL () () PROTON IMPORT SECONDARY "mfs" NIL NIL T (#<"G1G1K-2838" instance frame in PFLU216595BASE[F]
+                                                                                                    @
+                                                                                                    #x101c42d67a2>) "mfs transporter")
+(PFLU216595 :UNREVIEWED G1G1K-3069-MONOMER NIL NIL () () () IMPORT ATP "abc" NIL NIL T (#<"G1G1K-3069" instance frame in PFLU216595BASE[F]
+                                                                                          @
+                                                                                          #x101c605a342>) "abc transporter substrate-binding protein")
+(PFLU216595 :UNREVIEWED G1G1K-3070-MONOMER NIL NIL () () PROTON IMPORT SECONDARY "mfs" NIL NIL T (#<"G1G1K-3070" instance frame in PFLU216595BASE[F]
+                                                                                                    @
+                                                                                                    #x101c6053dd2>) "mfs transporter")
+(PFLU216595 :UNREVIEWED G1G1K-3075-MONOMER NIL NIL () () () IMPORT ATP "abc" NIL NIL T (#<"G1G1K-3075" instance frame in PFLU216595BASE[F]
+                                                                                          @
+                                                                                          #x101c603ffa2>) "metal abc transporter substrate-binding protein")
+(PFLU216595 :UNREVIEWED G1G1K-3076-MONOMER NIL NIL () () () IMPORT ATP "abc" NIL NIL T (#<"G1G1K-3076" instance frame in PFLU216595BASE[F]
+                                                                                          @
+                                                                                          #x101c603be12>) "metal abc transporter permease")
+(PFLU216595 :UNREVIEWED G1G1K-3078-MONOMER NIL NIL () () () IMPORT ATP "abc" NIL NIL T (#<"G1G1K-3078" instance frame in PFLU216595BASE[F]
+                                                                                          @
+                                                                                          #x101c6030912>) "abc transporter substrate-binding protein")
+(PFLU216595 :UNREVIEWED G1G1K-2841-MONOMER NIL NIL () () PROTON IMPORT SECONDARY "mfs" NIL NIL T (#<"G1G1K-2841" instance frame in PFLU216595BASE[F]
+                                                                                                    @
+                                                                                                    #x101c6474d22>) "mfs transporter")
+(PFLU216595 :UNREVIEWED G1G1K-2844-MONOMER NIL NIL () () () IMPORT UNKNOWN NIL NIL NIL T (#<"G1G1K-2844" instance frame in PFLU216595BASE[F]
+                                                                                            @
+                                                                                            #x101c64673b2>) "multidrug transporter")
+(PFLU216595 :UNREVIEWED G1G1K-1228-MONOMER NIL NIL () () () IMPORT ATP "abc" NIL NIL T (#<"G1G1K-1228" instance frame in PFLU216595BASE[F]
+                                                                                          @
+                                                                                          #x101c4e88f92>) "abc transporter atp-binding protein")
+(PFLU216595 :UNREVIEWED G1G1K-1229-MONOMER NIL NIL () () () IMPORT ATP "abc" NIL NIL T (#<"G1G1K-1229" instance frame in PFLU216595BASE[F]
+                                                                                          @
+                                                                                          #x101c4e887d2>) "abc transporter atp-binding protein")
+(PFLU216595 :UNREVIEWED G1G1K-1232-MONOMER NIL NIL () () () IMPORT ATP "abc" NIL NIL T (#<"G1G1K-1232" instance frame in PFLU216595BASE[F]
+                                                                                          @
+                                                                                          #x101c4e877e2>) "abc transporter substrate-binding protein")
+(PFLU216595 :UNREVIEWED G1G1K-1234-MONOMER NIL NIL () () () IMPORT ATP "abc" NIL NIL T (#<"G1G1K-1234" instance frame in PFLU216595BASE[F]
+                                                                                          @
+                                                                                          #x101c4e86dd2>) "abc transporter substrate-binding protein")
+(PFLU216595 :UNREVIEWED G1G1K-1235-MONOMER NIL NIL () () () IMPORT ATP "abc" NIL NIL T (#<"G1G1K-1235" instance frame in PFLU216595BASE[F]
+                                                                                          @
+                                                                                          #x101c4e864d2>) "abc transporter substrate-binding protein")
+(PFLU216595 :UNREVIEWED G1G1K-1236-MONOMER NIL NIL () () () IMPORT ATP "abc" NIL NIL T (#<"G1G1K-1236" instance frame in PFLU216595BASE[F]
+                                                                                          @
+                                                                                          #x101c4e85da2>) "abc transporter substrate-binding protein")
+(PFLU216595 :UNREVIEWED G1G1K-2516-MONOMER NIL NIL () () () IMPORT ATP "abc" NIL NIL T (#<"G1G1K-2516" instance frame in PFLU216595BASE[F]
+                                                                                          @
+                                                                                          #x101c48940f2>) "abc transporter")
+(PFLU216595 :UNREVIEWED G1G1K-2517-MONOMER NIL NIL () () () IMPORT ATP "abc" NIL NIL T (#<"G1G1K-2517" instance frame in PFLU216595BASE[F]
+                                                                                          @
+                                                                                          #x101c4891a12>) "abc transporter permease")
+(PFLU216595 :UNREVIEWED G1G1K-1240-MONOMER NIL NIL () () () IMPORT ATP "abc" NIL NIL T (#<"G1G1K-1240" instance frame in PFLU216595BASE[F]
+                                                                                          @
+                                                                                          #x101c4e84552>) "abc transporter atp-binding protein")
+(PFLU216595 :UNREVIEWED G1G1K-6768-MONOMER NIL NIL () () () EXPORT UNKNOWN NIL NIL NIL T (#<"G1G1K-6768" instance frame in PFLU216595BASE[F]
+                                                                                            @
+                                                                                            #x101c636e472>) "flagellar export apparatus protein fliq")
+(PFLU216595 :UNREVIEWED G1G1K-2518-MONOMER NIL NIL () () () IMPORT ATP "abc" NIL NIL T (#<"G1G1K-2518" instance frame in PFLU216595BASE[F]
+                                                                                          @
+                                                                                          #x101c488c392>) "abc transporter atp-binding protein")
+(PFLU216595 :UNREVIEWED G1G1K-4637-MONOMER NIL NIL () () () IMPORT ATP "abc" NIL NIL T (#<"G1G1K-4637" instance frame in PFLU216595BASE[F]
+                                                                                          @
+                                                                                          #x101c6418d62>) "abc transporter atp-binding protein")
+(PFLU216595 :UNREVIEWED G1G1K-2521-MONOMER NIL NIL () () () IMPORT ATP "abc" NIL NIL T (#<"G1G1K-2521" instance frame in PFLU216595BASE[F]
+                                                                                          @
+                                                                                          #x101c487f102>) "abc transporter permease")
+(PFLU216595 :UNREVIEWED G1G1K-3152-MONOMER NIL NIL () () PROTON IMPORT SECONDARY "mfs" NIL NIL T (#<"G1G1K-3152" instance frame in PFLU216595BASE[F]
+                                                                                                    @
+                                                                                                    #x101c4b0ea62>) "mfs transporter")
+(PFLU216595 :UNREVIEWED G1G1K-2522-MONOMER NIL NIL () () () IMPORT ATP "abc" NIL NIL T (#<"G1G1K-2522" instance frame in PFLU216595BASE[F]
+                                                                                          @
+                                                                                          #x101c4878b12>) "abc transporter atp-binding protein")
+(PFLU216595 :UNREVIEWED G1G1K-3158-MONOMER NIL NIL () () PROTON IMPORT SECONDARY "mfs" NIL NIL T (#<"G1G1K-3158" instance frame in PFLU216595BASE[F]
+                                                                                                    @
+                                                                                                    #x101c4af3762>) "mfs transporter")
+(PFLU216595 :UNREVIEWED G1G1K-9003-MONOMER NIL NIL () () () IMPORT ATP "abc" NIL NIL T (#<"G1G1K-9003" instance frame in PFLU216595BASE[F]
+                                                                                          @
+                                                                                          #x101c5c9c8b2>) "abc transporter permease")
+(PFLU216595 :UNREVIEWED G1G1K-3846-MONOMER NIL NIL () () () IMPORT UNKNOWN NIL NIL NIL T (#<"G1G1K-3846" instance frame in PFLU216595BASE[F]
+                                                                                            @
+                                                                                            #x101c46cca82>) "eama-like transporter family protein")
+(PFLU216595 :UNREVIEWED G1G1K-3847-MONOMER NIL NIL () () () IMPORT UNKNOWN NIL NIL NIL T (#<"G1G1K-3847" instance frame in PFLU216595BASE[F]
+                                                                                            @
+                                                                                            #x101c46c5ee2>) "eama-like transporter family protein")
+(PFLU216595 :UNREVIEWED G1G1K-1267-MONOMER NIL NIL () () PROTON IMPORT SECONDARY "mfs" NIL NIL T (#<"G1G1K-1267" instance frame in PFLU216595BASE[F]
+                                                                                                    @
+                                                                                                    #x101c4e7b7a2>) "mfs transporter")
+(PFLU216595 :UNREVIEWED G1G1K-6822-MONOMER NIL NIL () () () IMPORT UNKNOWN NIL NIL NIL T (#<"G1G1K-6822" instance frame in PFLU216595BASE[F]
+                                                                                            @
+                                                                                            #x101c6227462>) "eama family transporter")
+(PFLU216595 :UNREVIEWED G1G1K-9034-MONOMER NIL NIL () () PROTON IMPORT SECONDARY "mfs" NIL NIL T (#<"G1G1K-9034" instance frame in PFLU216595BASE[F]
+                                                                                                    @
+                                                                                                    #x101c5c5b092>) "mfs transporter")
+(PFLU216595 :UNREVIEWED G1G1K-4670-MONOMER NIL NIL () () () IMPORT UNKNOWN NIL NIL NIL T (#<"G1G1K-4670" instance frame in PFLU216595BASE[F]
+                                                                                            @
+                                                                                            #x101c634aea2>) "multidrug transporter")
+(PFLU216595 :UNREVIEWED G1G1K-6841-MONOMER NIL NIL () () () IMPORT UNKNOWN NIL NIL NIL T (#<"G1G1K-6841" instance frame in PFLU216595BASE[F]
+                                                                                            @
+                                                                                            #x101c61b9562>) "transporter")
+(PFLU216595 :UNREVIEWED G1G1K-6843-MONOMER NIL NIL () () PROTON IMPORT SECONDARY "mfs" NIL NIL T (#<"G1G1K-6843" instance frame in PFLU216595BASE[F]
+                                                                                                    @
+                                                                                                    #x101c61ae8d2>) "mfs transporter")
+(PFLU216595 :UNREVIEWED G1G1K-3210-MONOMER NIL NIL () () () IMPORT UNKNOWN NIL NIL NIL T (#<"G1G1K-3210" instance frame in PFLU216595BASE[F]
+                                                                                            @
+                                                                                            #x101c49c20f2>) "ai-2e family transporter")
+(PFLU216595 :UNREVIEWED G1G1K-4676-MONOMER NIL NIL () () PROTON IMPORT SECONDARY "mfs" NIL NIL T (#<"G1G1K-4676" instance frame in PFLU216595BASE[F]
+                                                                                                    @
+                                                                                                    #x101c6322612>) "mfs transporter")
+(PFLU216595 :UNREVIEWED G1G1K-4680-MONOMER NIL NIL () () PROTON IMPORT SECONDARY "mfs" NIL NIL T (#<"G1G1K-4680" instance frame in PFLU216595BASE[F]
+                                                                                                    @
+                                                                                                    #x101c6305cf2>) "mfs transporter")
+(PFLU216595 :UNREVIEWED G1G1K-4681-MONOMER NIL NIL () () () IMPORT UNKNOWN NIL NIL NIL T (#<"G1G1K-4681" instance frame in PFLU216595BASE[F]
+                                                                                            @
+                                                                                            #x101c6303572>) "transporter")
+(PFLU216595 :UNREVIEWED G1G1K-1301-MONOMER NIL NIL () () () IMPORT UNKNOWN NIL NIL NIL T (#<"G1G1K-1301" instance frame in PFLU216595BASE[F]
+                                                                                            @
+                                                                                            #x101c4e70652>) "zip family metal transporter")
+(PFLU216595 :UNREVIEWED G1G1K-6874-MONOMER NIL NIL () () () IMPORT UNKNOWN NIL NIL NIL T (#<"G1G1K-6874" instance frame in PFLU216595BASE[F]
+                                                                                            @
+                                                                                            #x101c60dd102>) "ai-2e family transporter")
+(PFLU216595 :UNREVIEWED G1G1K-3222-MONOMER NIL NIL () () PROTON IMPORT SECONDARY "mfs" NIL NIL T (#<"G1G1K-3222" instance frame in PFLU216595BASE[F]
+                                                                                                    @
+                                                                                                    #x101c4955f62>) "mfs transporter")
+(PFLU216595 :UNREVIEWED G1G1K-1304-MONOMER NIL NIL () () () IMPORT PTS "pts" NIL NIL T (#<"G1G1K-1304" instance frame in PFLU216595BASE[F]
+                                                                                          @
+                                                                                          #x101c4e6f662>) "pts iia-like nitrogen-regulatory protein ptsn")
+(PFLU216595 :UNREVIEWED G1G1K-1771-MONOMER NIL NIL () () () IMPORT ATP "abc" NIL NIL T (#<"G1G1K-1771" instance frame in PFLU216595BASE[F]
+                                                                                          @
+                                                                                          #x101c4ddff82>) "abc transporter atp-binding protein")
+(PFLU216595 :UNREVIEWED G1G1K-9098-MONOMER NIL NIL () () () IMPORT ATP "abc" NIL NIL T (#<"G1G1K-9098" instance frame in PFLU216595BASE[F]
+                                                                                          @
+                                                                                          #x101c5bf21d2>) "abc transporter substrate-binding protein")
+(PFLU216595 :UNREVIEWED G1G1K-2384-MONOMER NIL NIL () () PROTON IMPORT SECONDARY "mfs" NIL NIL T (#<"G1G1K-2384" instance frame in PFLU216595BASE[F]
+                                                                                                    @
+                                                                                                    #x101c4aca482>) "mfs transporter")
+(PFLU216595 :UNREVIEWED G1G1K-1307-MONOMER NIL NIL () () () IMPORT ATP "abc" NIL NIL T (#<"G1G1K-1307" instance frame in PFLU216595BASE[F]
+                                                                                          @
+                                                                                          #x101c4e6e802>) "abc transporter atp-binding protein")
+(PFLU216595 :UNREVIEWED G1G1K-5869-MONOMER NIL NIL () () PROTON IMPORT SECONDARY "mfs" NIL NIL T (#<"G1G1K-5869" instance frame in PFLU216595BASE[F]
+                                                                                                    @
+                                                                                                    #x101c43b32a2>) "mfs transporter")
+(PFLU216595 :UNREVIEWED G1G1K-5870-MONOMER NIL NIL () () PROTON IMPORT SECONDARY "mfs" NIL NIL T (#<"G1G1K-5870" instance frame in PFLU216595BASE[F]
+                                                                                                    @
+                                                                                                    #x101c43ad152>) "mfs transporter")
+(PFLU216595 :UNREVIEWED G1G1K-1313-MONOMER NIL NIL () () () IMPORT ATP "abc" NIL NIL T (#<"G1G1K-1313" instance frame in PFLU216595BASE[F]
+                                                                                          @
+                                                                                          #x101c4e6c592>) "abc transporter permease")
+(PFLU216595 :UNREVIEWED G1G1K-6904-MONOMER NIL NIL () () PROTON IMPORT SECONDARY "mfs" NIL NIL T (#<"G1G1K-6904" instance frame in PFLU216595BASE[F]
+                                                                                                    @
+                                                                                                    #x101c60183a2>) "mfs transporter")
+(PFLU216595 :UNREVIEWED G1G1K-9149-MONOMER NIL NIL () () () IMPORT UNKNOWN NIL NIL NIL T (#<"G1G1K-9149" instance frame in PFLU216595BASE[F]
+                                                                                            @
+                                                                                            #x101c5ba02c2>) "transporter")
+(PFLU216595 :UNREVIEWED G1G1K-6916-MONOMER NIL NIL () () () IMPORT CHANNEL "channel" NIL NIL T (#<"G1G1K-6916" instance frame in PFLU216595BASE[F]
+                                                                                                  @
+                                                                                                  #x101c5fe9362>) "mechanosensitive ion channel protein mscs")
+(PFLU216595 :UNREVIEWED G1G1K-3266-MONOMER NIL NIL () () PROTON IMPORT SECONDARY "mfs" NIL NIL T (#<"G1G1K-3266" instance frame in PFLU216595BASE[F]
+                                                                                                    @
+                                                                                                    #x101c47bbd62>) "mfs transporter")
+(PFLU216595 :UNREVIEWED G1G1K-5878-MONOMER NIL NIL () () () IMPORT ATP "abc" NIL NIL T (#<"G1G1K-5878" instance frame in PFLU216595BASE[F]
+                                                                                          @
+                                                                                          #x101c4372822>) "abc transporter atp-binding protein")
+(PFLU216595 :UNREVIEWED G1G1K-5879-MONOMER NIL NIL () () () IMPORT ATP "abc" NIL NIL T (#<"G1G1K-5879" instance frame in PFLU216595BASE[F]
+                                                                                          @
+                                                                                          #x101c436d132>) "abc transporter permease")
+(PFLU216595 :UNREVIEWED G1G1K-6923-MONOMER NIL NIL () () () IMPORT ATP "abc" NIL NIL T (#<"G1G1K-6923" instance frame in PFLU216595BASE[F]
+                                                                                          @
+                                                                                          #x101c5fcf132>) "abc transporter atp-binding protein")
+(PFLU216595 :UNREVIEWED G1G1K-9177-MONOMER NIL NIL () () () IMPORT ATP "abc" NIL NIL T (#<"G1G1K-9177" instance frame in PFLU216595BASE[F]
+                                                                                          @
+                                                                                          #x101c5b73cd2>) "iron abc transporter permease")
+(PFLU216595 :UNREVIEWED G1G1K-5881-MONOMER NIL NIL () () () IMPORT UNKNOWN NIL NIL NIL T (#<"G1G1K-5881" instance frame in PFLU216595BASE[F]
+                                                                                            @
+                                                                                            #x101c4362a82>) "transporter")
+(PFLU216595 :UNREVIEWED G1G1K-9184-MONOMER NIL NIL () () () IMPORT ATP "abc" NIL NIL T (#<"G1G1K-9184" instance frame in PFLU216595BASE[F]
+                                                                                          @
+                                                                                          #x101c5b689b2>) "iron abc transporter substrate-binding protein")
+(PFLU216595 :UNREVIEWED G1G1K-5884-MONOMER NIL NIL () () () IMPORT ATP "abc" NIL NIL T (#<"G1G1K-5884" instance frame in PFLU216595BASE[F]
+                                                                                          @
+                                                                                          #x101c4355392>) "abc transporter atp-binding protein")
+(PFLU216595 :UNREVIEWED G1G1K-5885-MONOMER NIL NIL () () () IMPORT ATP "abc" NIL NIL T (#<"G1G1K-5885" instance frame in PFLU216595BASE[F]
+                                                                                          @
+                                                                                          #x101c43531c2>) "abc transporter permease")
+(PFLU216595 :UNREVIEWED G1G1K-5888-MONOMER NIL NIL () () () IMPORT ATP "abc" NIL NIL T (#<"G1G1K-5888" instance frame in PFLU216595BASE[F]
+                                                                                          @
+                                                                                          #x101c4349582>) "abc transporter atp-binding protein")
+(PFLU216595 :UNREVIEWED G1G1K-9197-MONOMER NIL NIL () () () IMPORT ATP "abc" NIL NIL T (#<"G1G1K-9197" instance frame in PFLU216595BASE[F]
+                                                                                          @
+                                                                                          #x101c5b4f332>) "abc transporter atp-binding protein/permease")
+(PFLU216595 :UNREVIEWED G1G1K-9198-MONOMER NIL NIL () () () IMPORT ATP "abc" NIL NIL T (#<"G1G1K-9198" instance frame in PFLU216595BASE[F]
+                                                                                          @
+                                                                                          #x101c5b4cdd2>) "abc transporter permease")
+(PFLU216595 :UNREVIEWED G1G1K-9210-MONOMER NIL NIL () () PROTON IMPORT SECONDARY "mfs" NIL NIL T (#<"G1G1K-9210" instance frame in PFLU216595BASE[F]
+                                                                                                    @
+                                                                                                    #x101c5b373b2>) "mfs transporter")
+(PFLU216595 :UNREVIEWED G1G1K-9212-MONOMER NIL NIL () () () IMPORT CHANNEL "channel" NIL NIL T (#<"G1G1K-9212" instance frame in PFLU216595BASE[F]
+                                                                                                  @
+                                                                                                  #x101c5b354a2>) "ligand-gated channel")
+(PFLU216595 :UNREVIEWED G1G1K-5900-MONOMER NIL NIL () () () IMPORT UNKNOWN NIL NIL NIL T (#<"G1G1K-5900" instance frame in PFLU216595BASE[F]
+                                                                                            @
+                                                                                            #x101c4324852>) "eama/rhat family transporter")
+(PFLU216595 :UNREVIEWED G1G1K-5171-MONOMER NIL NIL () () () IMPORT UNKNOWN NIL NIL NIL T (#<"G1G1K-5171" instance frame in PFLU216595BASE[F]
+                                                                                            @
+                                                                                            #x101c5b6de72>) "eama/rhat family transporter")
+(PFLU216595 :UNREVIEWED G1G1K-5172-MONOMER NIL NIL () () PROTON IMPORT SECONDARY "mfs" NIL NIL T (#<"G1G1K-5172" instance frame in PFLU216595BASE[F]
+                                                                                                    @
+                                                                                                    #x101c5b6a1e2>) "mfs transporter")
+(PFLU216595 :UNREVIEWED G1G1K-6996-MONOMER NIL NIL () () () IMPORT UNKNOWN NIL NIL NIL T (#<"G1G1K-6996" instance frame in PFLU216595BASE[F]
+                                                                                            @
+                                                                                            #x101c5ed23c2>) "eama family transporter")
+(PFLU216595 :UNREVIEWED G1G1K-9255-MONOMER NIL NIL () () () IMPORT ATP "abc" NIL NIL T (#<"G1G1K-9255" instance frame in PFLU216595BASE[F]
+                                                                                          @
+                                                                                          #x101c5ae6bd2>) "abc transporter atp-binding protein")
+(PFLU216595 :UNREVIEWED G1G1K-5930-MONOMER NIL NIL () () PROTON IMPORT SECONDARY "mfs" NIL NIL T (#<"G1G1K-5930" instance frame in PFLU216595BASE[F]
+                                                                                                    @
+                                                                                                    #x101c646d762>) "mfs transporter")
+(PFLU216595 :UNREVIEWED G1G1K-5931-MONOMER NIL NIL () () () IMPORT UNKNOWN NIL NIL NIL T (#<"G1G1K-5931" instance frame in PFLU216595BASE[F]
+                                                                                            @
+                                                                                            #x101c646a862>) "multidrug transporter")
+(PFLU216595 :UNREVIEWED G1G1K-5932-MONOMER NIL NIL () () PROTON IMPORT SECONDARY "rnd" NIL NIL T (#<"G1G1K-5932" instance frame in PFLU216595BASE[F]
+                                                                                                    @
+                                                                                                    #x101c6465022>) "multidrug rnd transporter")
+(PFLU216595 :UNREVIEWED G1G1K-3336-MONOMER NIL NIL () () PROTON IMPORT SECONDARY "mfs" NIL NIL T (#<"G1G1K-3336" instance frame in PFLU216595BASE[F]
+                                                                                                    @
+                                                                                                    #x101c4513d52>) "mfs transporter")
+(PFLU216595 :UNREVIEWED G1G1K-2428-MONOMER NIL NIL () () () IMPORT ATP "abc" NIL NIL T (#<"G1G1K-2428" instance frame in PFLU216595BASE[F]
+                                                                                          @
+                                                                                          #x101c4a1ec02>) "abc transporter permease")
+(PFLU216595 :UNREVIEWED G1G1K-2429-MONOMER NIL NIL () () () IMPORT ATP "abc" NIL NIL T (#<"G1G1K-2429" instance frame in PFLU216595BASE[F]
+                                                                                          @
+                                                                                          #x101c4a1c632>) "abc transporter permease")
+(PFLU216595 :UNREVIEWED G1G1K-2430-MONOMER NIL NIL () () () IMPORT ATP "abc" NIL NIL T (#<"G1G1K-2430" instance frame in PFLU216595BASE[F]
+                                                                                          @
+                                                                                          #x101c4a15bf2>) "abc transporter atp-binding protein")
+(PFLU216595 :UNREVIEWED G1G1K-2431-MONOMER NIL NIL () () () IMPORT ATP "abc" NIL NIL T (#<"G1G1K-2431" instance frame in PFLU216595BASE[F]
+                                                                                          @
+                                                                                          #x101c4a10ac2>) "abc transporter atp-binding protein")
+(PFLU216595 :UNREVIEWED G1G1K-9299-MONOMER NIL NIL () () () EXPORT UNKNOWN NIL NIL NIL T (#<"G1G1K-9299" instance frame in PFLU216595BASE[F]
+                                                                                            @
+                                                                                            #x101c5aa0fb2>) "mate family efflux transporter")
+(PFLU216595 :UNREVIEWED G1G1K-7044-MONOMER NIL NIL () () PROTON IMPORT SECONDARY "mfs" NIL NIL T (#<"G1G1K-7044" instance frame in PFLU216595BASE[F]
+                                                                                                    @
+                                                                                                    #x101c5e398a2>) "mfs transporter")
+(PFLU216595 :UNREVIEWED G1G1K-1824-MONOMER NIL NIL () () PROTON IMPORT SECONDARY "rnd" NIL NIL T (#<"G1G1K-1824" instance frame in PFLU216595BASE[F]
+                                                                                                    @
+                                                                                                    #x101c4dcf962>) "rnd transporter")
+(PFLU216595 :UNREVIEWED G1G1K-4561-MONOMER NIL NIL () () PROTON IMPORT SECONDARY "mfs" NIL NIL T (#<"G1G1K-4561" instance frame in PFLU216595BASE[F]
+                                                                                                    @
+                                                                                                    #x101c44c6942>) "mfs transporter")
+(PFLU216595 :UNREVIEWED G1G1K-1404-MONOMER NIL NIL () () PROTON IMPORT SECONDARY "rnd" NIL NIL T (#<"G1G1K-1404" instance frame in PFLU216595BASE[F]
+                                                                                                    @
+                                                                                                    #x101c4e4e362>) "rnd transporter mfp subunit")
+(PFLU216595 :UNREVIEWED G1G1K-9323-MONOMER NIL NIL () () PROTON IMPORT SECONDARY "mfs" NIL NIL T (#<"G1G1K-9323" instance frame in PFLU216595BASE[F]
+                                                                                                    @
+                                                                                                    #x101c5a7e1f2>) "mfs transporter")
+(PFLU216595 :UNREVIEWED G1G1K-1406-MONOMER NIL NIL () () () IMPORT ATP "abc" NIL NIL T (#<"G1G1K-1406" instance frame in PFLU216595BASE[F]
+                                                                                          @
+                                                                                          #x101c4e4d7e2>) "abc transporter substrate-binding protein")
+(PFLU216595 :UNREVIEWED G1G1K-3361-MONOMER NIL NIL () () () IMPORT ATP "abc" NIL NIL T (#<"G1G1K-3361" instance frame in PFLU216595BASE[F]
+                                                                                          @
+                                                                                          #x101c4413c52>) "abc transporter permease")
+(PFLU216595 :UNREVIEWED G1G1K-7058-MONOMER NIL NIL () () () IMPORT UNKNOWN NIL NIL NIL T (#<"G1G1K-7058" instance frame in PFLU216595BASE[F]
+                                                                                            @
+                                                                                            #x101c5e056f2>) "eama family transporter")
+(PFLU216595 :UNREVIEWED G1G1K-3362-MONOMER NIL NIL () () () IMPORT ATP "abc" NIL NIL T (#<"G1G1K-3362" instance frame in PFLU216595BASE[F]
+                                                                                          @
+                                                                                          #x101c4404b72>) "abc transporter permease")
+(PFLU216595 :UNREVIEWED G1G1K-2630-MONOMER NIL NIL () () () EXPORT UNKNOWN NIL NIL NIL T (#<"G1G1K-2630" instance frame in PFLU216595BASE[F]
+                                                                                            @
+                                                                                            #x101c4688ef2>) "heme exporter protein ccmb")
+(PFLU216595 :UNREVIEWED G1G1K-3363-MONOMER NIL NIL () () () IMPORT ATP "abc" NIL NIL T (#<"G1G1K-3363" instance frame in PFLU216595BASE[F]
+                                                                                          @
+                                                                                          #x101c43ff552>) "abc transporter atp-binding protein")
+(PFLU216595 :UNREVIEWED G1G1K-9330-MONOMER NIL NIL () () () IMPORT ATP "abc" NIL NIL T (#<"G1G1K-9330" instance frame in PFLU216595BASE[F]
+                                                                                          @
+                                                                                          #x101c5a71f92>) "abc transporter substrate-binding protein")
+(PFLU216595 :UNREVIEWED G1G1K-2631-MONOMER NIL NIL () () () IMPORT ATP "abc" NIL NIL T (#<"G1G1K-2631" instance frame in PFLU216595BASE[F]
+                                                                                          @
+                                                                                          #x101c4682662>) "heme abc transporter permease")
+(PFLU216595 :UNREVIEWED G1G1K-4788-MONOMER NIL NIL () () PROTON IMPORT SECONDARY "mfs" NIL NIL T (#<"G1G1K-4788" instance frame in PFLU216595BASE[F]
+                                                                                                    @
+                                                                                                    #x101c606bb32>) "mfs transporter")
+(PFLU216595 :UNREVIEWED G1G1K-3366-MONOMER NIL NIL () () () IMPORT ATP "abc" NIL NIL T (#<"G1G1K-3366" instance frame in PFLU216595BASE[F]
+                                                                                          @
+                                                                                          #x101c4d3c492>) "abc transporter permease")
+(PFLU216595 :UNREVIEWED G1G1K-2632-MONOMER NIL NIL () () () EXPORT UNKNOWN NIL NIL NIL T (#<"G1G1K-2632" instance frame in PFLU216595BASE[F]
+                                                                                            @
+                                                                                            #x101c467fee2>) "heme exporter ccmd")
+(PFLU216595 :UNREVIEWED G1G1K-3367-MONOMER NIL NIL () () () IMPORT ATP "abc" NIL NIL T (#<"G1G1K-3367" instance frame in PFLU216595BASE[F]
+                                                                                          @
+                                                                                          #x101c4d3b352>) "abc transporter substrate-binding protein")
+(PFLU216595 :UNREVIEWED G1G1K-1415-MONOMER NIL NIL () () PROTON IMPORT SECONDARY "rnd" NIL NIL T (#<"G1G1K-1415" instance frame in PFLU216595BASE[F]
+                                                                                                    @
+                                                                                                    #x101c4e4ad62>) "rnd transporter")
+(PFLU216595 :UNREVIEWED G1G1K-3943-MONOMER NIL NIL () () () IMPORT ATP "abc" NIL NIL T (#<"G1G1K-3943" instance frame in PFLU216595BASE[F]
+                                                                                          @
+                                                                                          #x101c44fde82>) "abc transporter permease")
+(PFLU216595 :UNREVIEWED G1G1K-9357-MONOMER NIL NIL () () () IMPORT UNKNOWN NIL NIL NIL T (#<"G1G1K-9357" instance frame in PFLU216595BASE[F]
+                                                                                            @
+                                                                                            #x101c5a434b2>) "biopolymer transport protein exbd")
+(PFLU216595 :UNREVIEWED G1G1K-3944-MONOMER NIL NIL () () () IMPORT ATP "abc" NIL NIL T (#<"G1G1K-3944" instance frame in PFLU216595BASE[F]
+                                                                                          @
+                                                                                          #x101c44fb702>) "abc transporter permease")
+(PFLU216595 :UNREVIEWED G1G1K-3945-MONOMER NIL NIL () () () IMPORT ATP "abc" NIL NIL T (#<"G1G1K-3945" instance frame in PFLU216595BASE[F]
+                                                                                          @
+                                                                                          #x101c44f7642>) "abc transporter atp-binding protein")
+(PFLU216595 :UNREVIEWED G1G1K-4809-MONOMER NIL NIL () () () IMPORT UNKNOWN NIL NIL NIL T (#<"G1G1K-4809" instance frame in PFLU216595BASE[F]
+                                                                                            @
+                                                                                            #x101c5ffd972>) "eama family transporter")
+(PFLU216595 :UNREVIEWED G1G1K-7103-MONOMER NIL NIL () () () IMPORT UNKNOWN NIL NIL NIL T (#<"G1G1K-7103" instance frame in PFLU216595BASE[F]
+                                                                                            @
+                                                                                            #x101c5d77822>) "eama family transporter")
+(PFLU216595 :UNREVIEWED G1G1K-2647-MONOMER NIL NIL () () PROTON IMPORT SECONDARY "mfs" NIL NIL T (#<"G1G1K-2647" instance frame in PFLU216595BASE[F]
+                                                                                                    @
+                                                                                                    #x101c46371f2>) "mfs transporter")
+(PFLU216595 :UNREVIEWED G1G1K-9370-MONOMER NIL NIL () () () IMPORT ATP "abc" NIL NIL T (#<"G1G1K-9370" instance frame in PFLU216595BASE[F]
+                                                                                          @
+                                                                                          #x101c5a304c2>) "abc transporter permease")
+(PFLU216595 :UNREVIEWED G1G1K-9371-MONOMER NIL NIL () () () IMPORT ATP "abc" NIL NIL T (#<"G1G1K-9371" instance frame in PFLU216595BASE[F]
+                                                                                          @
+                                                                                          #x101c5a2f042>) "abc transporter atp-binding protein")
+(PFLU216595 :UNREVIEWED G1G1K-4576-MONOMER NIL NIL () () () IMPORT UNKNOWN NIL NIL NIL T (#<"G1G1K-4576" instance frame in PFLU216595BASE[F]
+                                                                                            @
+                                                                                            #x101c441ce02>) "iron transporter")
+(PFLU216595 :UNREVIEWED G1G1K-4579-MONOMER NIL NIL () () PROTON IMPORT SECONDARY "mfs" NIL NIL T (#<"G1G1K-4579" instance frame in PFLU216595BASE[F]
+                                                                                                    @
+                                                                                                    #x101c4445a62>) "mfs transporter")
+(PFLU216595 :UNREVIEWED G1G1K-6014-MONOMER NIL NIL () () PROTON IMPORT SECONDARY "mfs" NIL NIL T (#<"G1G1K-6014" instance frame in PFLU216595BASE[F]
+                                                                                                    @
+                                                                                                    #x101c632aa32>) "mfs transporter")
+(PFLU216595 :UNREVIEWED G1G1K-3956-MONOMER NIL NIL () () () EXPORT UNKNOWN NIL NIL NIL T (#<"G1G1K-3956" instance frame in PFLU216595BASE[F]
+                                                                                            @
+                                                                                            #x101c44c5002>) "mate family efflux transporter")
+(PFLU216595 :UNREVIEWED G1G1K-7138-MONOMER NIL NIL () () () IMPORT ATP "abc" NIL NIL T (#<"G1G1K-7138" instance frame in PFLU216595BASE[F]
+                                                                                          @
+                                                                                          #x101c5d0e3b2>) "abc transporter substrate-binding protein")
+(PFLU216595 :UNREVIEWED G1G1K-4583-MONOMER NIL NIL () () PROTON EXPORT SECONDARY "rnd" NIL NIL T (#<"G1G1K-4583" instance frame in PFLU216595BASE[F]
+                                                                                                    @
+                                                                                                    #x101c43e2372>) "multidrug efflux rnd transporter permease subunit")
+(PFLU216595 :UNREVIEWED G1G1K-4584-MONOMER NIL NIL () () PROTON EXPORT SECONDARY "rnd" NIL NIL T (#<"G1G1K-4584" instance frame in PFLU216595BASE[F]
+                                                                                                    @
+                                                                                                    #x101c43d8ec2>) "mexe family multidrug efflux rnd transporter periplasmic adaptor subunit")
+(PFLU216595 :UNREVIEWED G1G1K-3958-MONOMER NIL NIL () () PROTON IMPORT SECONDARY "mfs" NIL NIL T (#<"G1G1K-3958" instance frame in PFLU216595BASE[F]
+                                                                                                    @
+                                                                                                    #x101c44bc3a2>) "mfs transporter")
+(PFLU216595 :UNREVIEWED G1G1K-5212-MONOMER NIL NIL () () () IMPORT ATP "abc" NIL NIL T (#<"G1G1K-5212" instance frame in PFLU216595BASE[F]
+                                                                                          @
+                                                                                          #x101c5ad96f2>) "abc transporter atp-binding protein")
+(PFLU216595 :UNREVIEWED G1G1K-9420-MONOMER NIL NIL () () () IMPORT UNKNOWN NIL NIL NIL T (#<"G1G1K-9420" instance frame in PFLU216595BASE[F]
+                                                                                            @
+                                                                                            #x101c59e2102>) "hlyc/corc family transporter")
+(PFLU216595 :UNREVIEWED G1G1K-5215-MONOMER NIL NIL () () () IMPORT ATP "abc" NIL NIL T (#<"G1G1K-5215" instance frame in PFLU216595BASE[F]
+                                                                                          @
+                                                                                          #x101c5ad1512>) "abc transporter permease")
+(PFLU216595 :UNREVIEWED G1G1K-4849-MONOMER NIL NIL () () () IMPORT UNKNOWN NIL NIL NIL T (#<"G1G1K-4849" instance frame in PFLU216595BASE[F]
+                                                                                            @
+                                                                                            #x101c5f8a512>) "type i secretion system permease/atpase")
+(PFLU216595 :UNREVIEWED G1G1K-8071-MONOMER NIL NIL () () () IMPORT ATP "abc" NIL NIL T (#<"G1G1K-8071" instance frame in PFLU216595BASE[F]
+                                                                                          @
+                                                                                          #x101c4364b72>) "heme abc transporter atp-binding protein")
+(PFLU216595 :UNREVIEWED G1G1K-8072-MONOMER NIL NIL () () () IMPORT ATP "abc" NIL NIL T (#<"G1G1K-8072" instance frame in PFLU216595BASE[F]
+                                                                                          @
+                                                                                          #x101c4360d92>) "iron abc transporter permease")
+(PFLU216595 :UNREVIEWED G1G1K-9433-MONOMER NIL NIL () () PROTON IMPORT SECONDARY "mfs" NIL NIL T (#<"G1G1K-9433" instance frame in PFLU216595BASE[F]
+                                                                                                    @
+                                                                                                    #x101c59cc272>) "mfs transporter")
+(PFLU216595 :UNREVIEWED G1G1K-6036-MONOMER NIL NIL () () PROTON IMPORT SECONDARY "rnd" NIL NIL T (#<"G1G1K-6036" instance frame in PFLU216595BASE[F]
+                                                                                                    @
+                                                                                                    #x101c62f68b2>) "rnd transporter")
+(PFLU216595 :UNREVIEWED G1G1K-6037-MONOMER NIL NIL () () PROTON IMPORT SECONDARY "rnd" NIL NIL T (#<"G1G1K-6037" instance frame in PFLU216595BASE[F]
+                                                                                                    @
+                                                                                                    #x101c62ef9e2>) "rnd transporter")
+(PFLU216595 :UNREVIEWED G1G1K-3417-MONOMER NIL NIL () () () IMPORT ATP "abc" NIL NIL T (#<"G1G1K-3417" instance frame in PFLU216595BASE[F]
+                                                                                          @
+                                                                                          #x101c4d03272>) "abc transporter substrate-binding protein")
+(PFLU216595 :UNREVIEWED G1G1K-4597-MONOMER NIL NIL () () () IMPORT ATP "abc" NIL NIL T (#<"G1G1K-4597" instance frame in PFLU216595BASE[F]
+                                                                                          @
+                                                                                          #x101c4386cb2>) "abc transporter atp-binding protein")
+(PFLU216595 :UNREVIEWED G1G1K-4598-MONOMER NIL NIL () () () IMPORT ATP "abc" NIL NIL T (#<"G1G1K-4598" instance frame in PFLU216595BASE[F]
+                                                                                          @
+                                                                                          #x101c4382e12>) "abc transporter permease")
+(PFLU216595 :UNREVIEWED G1G1K-4599-MONOMER NIL NIL () () () IMPORT ATP "abc" NIL NIL T (#<"G1G1K-4599" instance frame in PFLU216595BASE[F]
+                                                                                          @
+                                                                                          #x101c437fb32>) "abc transporter permease")
+(PFLU216595 :UNREVIEWED G1G1K-4600-MONOMER NIL NIL () () () IMPORT ATP "abc" NIL NIL T (#<"G1G1K-4600" instance frame in PFLU216595BASE[F]
+                                                                                          @
+                                                                                          #x101c43771c2>) "abc transporter substrate-binding protein")
+(PFLU216595 :UNREVIEWED G1G1K-5240-MONOMER NIL NIL () () () IMPORT UNKNOWN NIL NIL NIL T (#<"G1G1K-5240" instance frame in PFLU216595BASE[F]
+                                                                                            @
+                                                                                            #x101c5a89d72>) "eama/rhat family transporter")
+(PFLU216595 :UNREVIEWED G1G1K-4601-MONOMER NIL NIL () () () IMPORT CHANNEL "channel" NIL NIL T (#<"G1G1K-4601" instance frame in PFLU216595BASE[F]
+                                                                                                  @
+                                                                                                  #x101c436e202>) "ligand-gated channel")
+(PFLU216595 :UNREVIEWED G1G1K-2680-MONOMER NIL NIL () () PROTON IMPORT SECONDARY "mfs" NIL NIL T (#<"G1G1K-2680" instance frame in PFLU216595BASE[F]
+                                                                                                    @
+                                                                                                    #x101c4598de2>) "mfs transporter")
+(PFLU216595 :UNREVIEWED G1G1K-5242-MONOMER NIL NIL () () PROTON IMPORT SECONDARY "mfs" NIL NIL T (#<"G1G1K-5242" instance frame in PFLU216595BASE[F]
+                                                                                                    @
+                                                                                                    #x101c5a852d2>) "mfs transporter")
+(PFLU216595 :UNREVIEWED G1G1K-7239-MONOMER NIL NIL () () PROTON IMPORT SECONDARY "mfs" NIL NIL T (#<"G1G1K-7239" instance frame in PFLU216595BASE[F]
+                                                                                                    @
+                                                                                                    #x101c5bb3fc2>) "mfs transporter")
+(PFLU216595 :UNREVIEWED G1G1K-4878-MONOMER NIL NIL () () () IMPORT UNKNOWN NIL NIL NIL T (#<"G1G1K-4878" instance frame in PFLU216595BASE[F]
+                                                                                            @
+                                                                                            #x101c5f1e1a2>) "nuclear transport factor 2 family protein")
+(PFLU216595 :UNREVIEWED G1G1K-6066-MONOMER NIL NIL () () PROTON IMPORT SECONDARY "permease" NIL NIL T (#<"G1G1K-6066" instance frame in PFLU216595BASE[F]
+                                                                                                         @
+                                                                                                         #x101c629f2c2>) "trap transporter permease dctq")
+(PFLU216595 :UNREVIEWED G1G1K-1480-MONOMER NIL NIL () () () IMPORT UNKNOWN NIL NIL NIL T (#<"G1G1K-1480" instance frame in PFLU216595BASE[F]
+                                                                                            @
+                                                                                            #x101c4e37012>) "nuclear transport factor 2 family protein")
+(PFLU216595 :UNREVIEWED G1G1K-2687-MONOMER NIL NIL () () () IMPORT UNKNOWN NIL NIL NIL T (#<"G1G1K-2687" instance frame in PFLU216595BASE[F]
+                                                                                            @
+                                                                                            #x101c4577462>) "ion transporter")
+(PFLU216595 :UNREVIEWED G1G1K-9499-MONOMER NIL NIL () () () IMPORT ATP "abc" NIL NIL T (#<"G1G1K-9499" instance frame in PFLU216595BASE[F]
+                                                                                          @
+                                                                                          #x101c595f642>) "metal abc transporter permease")
+(PFLU216595 :UNREVIEWED G1G1K-3430-MONOMER NIL NIL () () () IMPORT ATP "abc" NIL NIL T (#<"G1G1K-3430" instance frame in PFLU216595BASE[F]
+                                                                                          @
+                                                                                          #x101c4cf43e2>) "abc transporter substrate-binding protein")
+(PFLU216595 :UNREVIEWED G1G1K-9500-MONOMER NIL NIL () () () IMPORT ATP "abc" NIL NIL T (#<"G1G1K-9500" instance frame in PFLU216595BASE[F]
+                                                                                          @
+                                                                                          #x101c595eaf2>) "metal abc transporter substrate-binding protein")
+(PFLU216595 :UNREVIEWED G1G1K-6075-MONOMER NIL NIL () () () IMPORT UNKNOWN NIL NIL NIL T (#<"G1G1K-6075" instance frame in PFLU216595BASE[F]
+                                                                                            @
+                                                                                            #x101c6285922>) "multidrug transporter emra")
+(PFLU216595 :UNREVIEWED G1G1K-6076-MONOMER NIL NIL () () PROTON IMPORT SECONDARY "mfs" NIL NIL T (#<"G1G1K-6076" instance frame in PFLU216595BASE[F]
+                                                                                                    @
+                                                                                                    #x101c6281502>) "mfs transporter")
+(PFLU216595 :UNREVIEWED G1G1K-3431-MONOMER NIL NIL () () () IMPORT ATP "abc" NIL NIL T (#<"G1G1K-3431" instance frame in PFLU216595BASE[F]
+                                                                                          @
+                                                                                          #x101c4cf2b92>) "abc transporter permease")
+(PFLU216595 :UNREVIEWED G1G1K-5248-MONOMER NIL NIL () () PROTON IMPORT SECONDARY "mfs" NIL NIL T (#<"G1G1K-5248" instance frame in PFLU216595BASE[F]
+                                                                                                    @
+                                                                                                    #x101c5a6d402>) "mfs transporter")
+(PFLU216595 :UNREVIEWED G1G1K-3432-MONOMER NIL NIL () () () IMPORT ATP "abc" NIL NIL T (#<"G1G1K-3432" instance frame in PFLU216595BASE[F]
+                                                                                          @
+                                                                                          #x101c4cf2222>) "abc transporter substrate-binding protein")
+(PFLU216595 :UNREVIEWED G1G1K-7280-MONOMER NIL NIL () () () IMPORT ATP "abc" NIL NIL T (#<"G1G1K-7280" instance frame in PFLU216595BASE[F]
+                                                                                          @
+                                                                                          #x101c5b3fe12>) "abc transporter permease")
+(PFLU216595 :UNREVIEWED G1G1K-3434-MONOMER NIL NIL () () () IMPORT ATP "abc" NIL NIL T (#<"G1G1K-3434" instance frame in PFLU216595BASE[F]
+                                                                                          @
+                                                                                          #x101c4cefb12>) "abc transporter atp-binding protein")
+(PFLU216595 :UNREVIEWED G1G1K-7282-MONOMER NIL NIL () () () IMPORT ATP "abc" NIL NIL T (#<"G1G1K-7282" instance frame in PFLU216595BASE[F]
+                                                                                          @
+                                                                                          #x101c5b3b6f2>) "abc transporter substrate-binding protein")
+(PFLU216595 :UNREVIEWED G1G1K-3435-MONOMER NIL NIL () () () IMPORT ATP "abc" NIL NIL T (#<"G1G1K-3435" instance frame in PFLU216595BASE[F]
+                                                                                          @
+                                                                                          #x101c4cef1f2>) "abc transporter atp-binding protein")
+(PFLU216595 :UNREVIEWED G1G1K-5252-MONOMER NIL NIL () () PROTON IMPORT SECONDARY "mfs" NIL NIL T (#<"G1G1K-5252" instance frame in PFLU216595BASE[F]
+                                                                                                    @
+                                                                                                    #x101c5a5e792>) "mfs transporter")
+(PFLU216595 :UNREVIEWED G1G1K-8165-MONOMER NIL NIL () () PROTON IMPORT SECONDARY "mfs" NIL NIL T (#<"G1G1K-8165" instance frame in PFLU216595BASE[F]
+                                                                                                    @
+                                                                                                    #x101c63cb452>) "mfs transporter")
+(PFLU216595 :UNREVIEWED G1G1K-1492-MONOMER NIL NIL () () PROTON IMPORT SECONDARY "mfs" NIL NIL T (#<"G1G1K-1492" instance frame in PFLU216595BASE[F]
+                                                                                                    @
+                                                                                                    #x101c4e33732>) "mfs transporter")
+(PFLU216595 :UNREVIEWED G1G1K-6109-MONOMER NIL NIL () () PROTON IMPORT SECONDARY "rnd" NIL NIL T (#<"G1G1K-6109" instance frame in PFLU216595BASE[F]
+                                                                                                    @
+                                                                                                    #x101c6218252>) "rnd transporter")
+(PFLU216595 :UNREVIEWED G1G1K-3442-MONOMER NIL NIL () () PROTON IMPORT SECONDARY "mfs" NIL NIL T (#<"G1G1K-3442" instance frame in PFLU216595BASE[F]
+                                                                                                    @
+                                                                                                    #x101c4ce7a12>) "mfs transporter")
+(PFLU216595 :UNREVIEWED G1G1K-6119-MONOMER NIL NIL () () () IMPORT ATP "abc" NIL NIL T (#<"G1G1K-6119" instance frame in PFLU216595BASE[F]
+                                                                                          @
+                                                                                          #x101c61fad02>) "abc transporter atp-binding protein")
+(PFLU216595 :UNREVIEWED G1G1K-6120-MONOMER NIL NIL () () () IMPORT ATP "abc" NIL NIL T (#<"G1G1K-6120" instance frame in PFLU216595BASE[F]
+                                                                                          @
+                                                                                          #x101c61f6752>) "abc transporter atp-binding protein")
+(PFLU216595 :UNREVIEWED G1G1K-1924-MONOMER NIL NIL () () () IMPORT ATP "abc" NIL NIL T (#<"G1G1K-1924" instance frame in PFLU216595BASE[F]
+                                                                                          @
+                                                                                          #x101c4daf632>) "abc transporter substrate-binding protein")
+(PFLU216595 :UNREVIEWED G1G1K-6162-MONOMER NIL NIL () () () IMPORT ATP "abc" NIL NIL T (#<"G1G1K-6162" instance frame in PFLU216595BASE[F]
+                                                                                          @
+                                                                                          #x101c6171b72>) "iron abc transporter permease")
+(PFLU216595 :UNREVIEWED G1G1K-9559-MONOMER NIL NIL () () () IMPORT UNKNOWN NIL NIL NIL T (#<"G1G1K-9559" instance frame in PFLU216595BASE[F]
+                                                                                            @
+                                                                                            #x101c5903512>) "iron transporter")
+(PFLU216595 :UNREVIEWED G1G1K-6163-MONOMER NIL NIL () () () IMPORT ATP "abc" NIL NIL T (#<"G1G1K-6163" instance frame in PFLU216595BASE[F]
+                                                                                          @
+                                                                                          #x101c616c942>) "abc transporter permease")
+(PFLU216595 :UNREVIEWED G1G1K-6165-MONOMER NIL NIL () () () IMPORT ATP "abc" NIL NIL T (#<"G1G1K-6165" instance frame in PFLU216595BASE[F]
+                                                                                          @
+                                                                                          #x101c6167272>) "abc transporter atp-binding protein")
+(PFLU216595 :UNREVIEWED G1G1K-1508-MONOMER NIL NIL () () PROTON IMPORT SECONDARY "mfs" NIL NIL T (#<"G1G1K-1508" instance frame in PFLU216595BASE[F]
+                                                                                                    @
+                                                                                                    #x101c4e2e782>) "mfs transporter")
+(PFLU216595 :UNREVIEWED G1G1K-6178-MONOMER NIL NIL () () () EXPORT ATP "abc" NIL NIL T (#<"G1G1K-6178" instance frame in PFLU216595BASE[F]
+                                                                                          @
+                                                                                          #x101c6142242>) "iron export abc transporter permease subunit fetb")
+(PFLU216595 :UNREVIEWED G1G1K-5275-MONOMER NIL NIL () () () IMPORT UNKNOWN NIL NIL NIL T (#<"G1G1K-5275" instance frame in PFLU216595BASE[F]
+                                                                                            @
+                                                                                            #x101c5a14802>) "nuclear transport factor 2 family protein")
+(PFLU216595 :UNREVIEWED G1G1K-6179-MONOMER NIL NIL () () () IMPORT ATP "abc" NIL NIL T (#<"G1G1K-6179" instance frame in PFLU216595BASE[F]
+                                                                                          @
+                                                                                          #x101c613e8c2>) "abc transporter atp-binding protein")
+(PFLU216595 :UNREVIEWED G1G1K-6183-MONOMER NIL NIL () () () IMPORT ATP "abc" NIL NIL T (#<"G1G1K-6183" instance frame in PFLU216595BASE[F]
+                                                                                          @
+                                                                                          #x101c6131c12>) "abc transporter")
+(PFLU216595 :UNREVIEWED G1G1K-8241-MONOMER NIL NIL () () () IMPORT CHANNEL "channel" NIL NIL T (#<"G1G1K-8241" instance frame in PFLU216595BASE[F]
+                                                                                                  @
+                                                                                                  #x101c62ce392>) "large-conductance mechanosensitive channel")
+(PFLU216595 :UNREVIEWED G1G1K-5277-MONOMER NIL NIL () () () IMPORT UNKNOWN NIL NIL NIL T (#<"G1G1K-5277" instance frame in PFLU216595BASE[F]
+                                                                                            @
+                                                                                            #x101c5a10852>) "eama family transporter")
+(PFLU216595 :UNREVIEWED G1G1K-4092-MONOMER NIL NIL () () () IMPORT ATP "abc" NIL NIL T (#<"G1G1K-4092" instance frame in PFLU216595BASE[F]
+                                                                                          @
+                                                                                          #x101c63e8a82>) "abc transporter permease")
+(PFLU216595 :UNREVIEWED G1G1K-7358-MONOMER NIL NIL () () PROTON IMPORT SECONDARY "permease" NIL NIL T (#<"G1G1K-7358" instance frame in PFLU216595BASE[F]
+                                                                                                         @
+                                                                                                         #x101c5a40cc2>) "permease")
+(PFLU216595 :UNREVIEWED G1G1K-8250-MONOMER NIL NIL () () PROTON IMPORT SECONDARY "mfs" NIL NIL T (#<"G1G1K-8250" instance frame in PFLU216595BASE[F]
+                                                                                                    @
+                                                                                                    #x101c62b45f2>) "mfs transporter")
+(PFLU216595 :UNREVIEWED G1G1K-2706-MONOMER NIL NIL () () () IMPORT ATP "abc" NIL NIL T (#<"G1G1K-2706" instance frame in PFLU216595BASE[F]
+                                                                                          @
+                                                                                          #x101c451cea2>) "abc transporter")
+(PFLU216595 :UNREVIEWED G1G1K-8261-MONOMER NIL NIL () () PROTON IMPORT SECONDARY "permease" NIL NIL T (#<"G1G1K-8261" instance frame in PFLU216595BASE[F]
+                                                                                                         @
+                                                                                                         #x101c6290a72>) "ncs2 family permease")
+(PFLU216595 :UNREVIEWED G1G1K-6198-MONOMER NIL NIL () () PROTON IMPORT SECONDARY "mfs" NIL NIL T (#<"G1G1K-6198" instance frame in PFLU216595BASE[F]
+                                                                                                    @
+                                                                                                    #x101c6109282>) "mfs transporter")
+(PFLU216595 :UNREVIEWED G1G1K-7369-MONOMER NIL NIL () () PROTON IMPORT SECONDARY "mfs" NIL NIL T (#<"G1G1K-7369" instance frame in PFLU216595BASE[F]
+                                                                                                    @
+                                                                                                    #x101c5a1d4a2>) "mfs transporter")
+(PFLU216595 :UNREVIEWED G1G1K-8269-MONOMER NIL NIL () () () IMPORT UNKNOWN NIL NIL NIL T (#<"G1G1K-8269" instance frame in PFLU216595BASE[F]
+                                                                                            @
+                                                                                            #x101c6270a82>) "type i secretion system permease/atpase")
+(PFLU216595 :UNREVIEWED G1G1K-8271-MONOMER NIL NIL () () () IMPORT CHANNEL "channel" NIL NIL T (#<"G1G1K-8271" instance frame in PFLU216595BASE[F]
+                                                                                                  @
+                                                                                                  #x101c626b452>) "ligand-gated channel")
+(PFLU216595 :UNREVIEWED G1G1K-5292-MONOMER NIL NIL () () PROTON IMPORT SECONDARY "permease" NIL NIL T (#<"G1G1K-5292" instance frame in PFLU216595BASE[F]
+                                                                                                         @
+                                                                                                         #x101c59dfb92>) "trap transporter small permease")
+(PFLU216595 :UNREVIEWED G1G1K-3512-MONOMER NIL NIL () () PROTON IMPORT SECONDARY "mfs" NIL NIL T (#<"G1G1K-3512" instance frame in PFLU216595BASE[F]
+                                                                                                    @
+                                                                                                    #x101c4c60c02>) "mfs transporter")
+(PFLU216595 :UNREVIEWED G1G1K-8300-MONOMER NIL NIL () () PROTON IMPORT SECONDARY "mfs" NIL NIL T (#<"G1G1K-8300" instance frame in PFLU216595BASE[F]
+                                                                                                    @
+                                                                                                    #x101c6202ea2>) "mfs transporter")
+(PFLU216595 :UNREVIEWED G1G1K-6222-MONOMER NIL NIL () () () IMPORT ATP "abc" NIL NIL T (#<"G1G1K-6222" instance frame in PFLU216595BASE[F]
+                                                                                          @
+                                                                                          #x101c60be7c2>) "abc transporter atp-binding protein")
+(PFLU216595 :UNREVIEWED G1G1K-6223-MONOMER NIL NIL () () () IMPORT ATP "abc" NIL NIL T (#<"G1G1K-6223" instance frame in PFLU216595BASE[F]
+                                                                                          @
+                                                                                          #x101c60ba422>) "abc transporter permease")
+(PFLU216595 :UNREVIEWED G1G1K-8301-MONOMER NIL NIL () () () IMPORT UNKNOWN NIL NIL NIL T (#<"G1G1K-8301" instance frame in PFLU216595BASE[F]
+                                                                                            @
+                                                                                            #x101c61ffba2>) "eama family transporter")
+(PFLU216595 :UNREVIEWED G1G1K-6224-MONOMER NIL NIL () () () IMPORT ATP "abc" NIL NIL T (#<"G1G1K-6224" instance frame in PFLU216595BASE[F]
+                                                                                          @
+                                                                                          #x101c60b5de2>) "abc transporter permease")
+(PFLU216595 :UNREVIEWED G1G1K-6225-MONOMER NIL NIL () () () IMPORT ATP "abc" NIL NIL T (#<"G1G1K-6225" instance frame in PFLU216595BASE[F]
+                                                                                          @
+                                                                                          #x101c60b3fb2>) "abc transporter substrate-binding protein")
+(PFLU216595 :UNREVIEWED G1G1K-4912-MONOMER NIL NIL () () () IMPORT UNKNOWN NIL NIL NIL T (#<"G1G1K-4912" instance frame in PFLU216595BASE[F]
+                                                                                            @
+                                                                                            #x101c5eb5e02>) "eama family transporter")
+(PFLU216595 :UNREVIEWED G1G1K-3515-MONOMER NIL NIL () () PROTON IMPORT SECONDARY "mfs" NIL NIL T (#<"G1G1K-3515" instance frame in PFLU216595BASE[F]
+                                                                                                    @
+                                                                                                    #x101c4c5a902>) "mfs transporter")
+(PFLU216595 :UNREVIEWED G1G1K-7419-MONOMER NIL NIL () () () IMPORT ATP "abc" NIL NIL T (#<"G1G1K-7419" instance frame in PFLU216595BASE[F]
+                                                                                          @
+                                                                                          #x101c597d8f2>) "abc transporter atp-binding protein")
+(PFLU216595 :UNREVIEWED G1G1K-8315-MONOMER NIL NIL () () () EXPORT UNKNOWN NIL NIL NIL T (#<"G1G1K-8315" instance frame in PFLU216595BASE[F]
+                                                                                            @
+                                                                                            #x101c61cea52>) "drug/metabolite exporter yeda")
+(PFLU216595 :UNREVIEWED G1G1K-8330-MONOMER NIL NIL () () () IMPORT ATP "abc" NIL NIL T (#<"G1G1K-8330" instance frame in PFLU216595BASE[F]
+                                                                                          @
+                                                                                          #x101c619dc02>) "abc transporter substrate-binding protein")
+(PFLU216595 :UNREVIEWED G1G1K-4916-MONOMER NIL NIL () () () IMPORT UNKNOWN NIL NIL NIL T (#<"G1G1K-4916" instance frame in PFLU216595BASE[F]
+                                                                                            @
+                                                                                            #x101c5ea6f92>) "transporter")
+(PFLU216595 :UNREVIEWED G1G1K-8338-MONOMER NIL NIL () () () IMPORT UNKNOWN NIL NIL NIL T (#<"G1G1K-8338" instance frame in PFLU216595BASE[F]
+                                                                                            @
+                                                                                            #x101c6187f52>) "iron transporter")
+(PFLU216595 :UNREVIEWED G1G1K-6253-MONOMER NIL NIL () () () IMPORT ATP "abc" NIL NIL T (#<"G1G1K-6253" instance frame in PFLU216595BASE[F]
+                                                                                          @
+                                                                                          #x101c6055932>) "abc transporter substrate-binding protein")
+(PFLU216595 :UNREVIEWED G1G1K-6256-MONOMER NIL NIL () () () IMPORT CHANNEL "channel" NIL NIL T (#<"G1G1K-6256" instance frame in PFLU216595BASE[F]
+                                                                                                  @
+                                                                                                  #x101c604dab2>) "ligand-gated channel")
+(PFLU216595 :UNREVIEWED G1G1K-2110-MONOMER NIL NIL () () () IMPORT UNKNOWN NIL NIL NIL T (#<"G1G1K-2110" instance frame in PFLU216595BASE[F]
+                                                                                            @
+                                                                                            #x101c4d4ad42>) "outer membrane autotransporter barrel domain-containing protein")
+(PFLU216595 :UNREVIEWED G1G1K-7445-MONOMER NIL NIL () () PROTON IMPORT SECONDARY "mfs" NIL NIL T (#<"G1G1K-7445" instance frame in PFLU216595BASE[F]
+                                                                                                    @
+                                                                                                    #x101c5931f52>) "mfs transporter")
+(PFLU216595 :UNREVIEWED G1G1K-4296-MONOMER NIL NIL () () PROTON IMPORT SECONDARY "mfs" NIL NIL T (#<"G1G1K-4296" instance frame in PFLU216595BASE[F]
+                                                                                                    @
+                                                                                                    #x101c6045d82>) "mfs transporter")
+(PFLU216595 :UNREVIEWED G1G1K-45-MONOMER NIL NIL () () PROTON IMPORT SECONDARY "mfs" NIL NIL T (#<"G1G1K-45" instance frame in PFLU216595BASE[F]
+                                                                                                  @
+                                                                                                  #x101c44a49d2>) "mfs transporter")
+(PFLU216595 :UNREVIEWED G1G1K-8368-MONOMER NIL NIL () () () IMPORT UNKNOWN NIL NIL NIL T (#<"G1G1K-8368" instance frame in PFLU216595BASE[F]
+                                                                                            @
+                                                                                            #x101c6121d22>) "hlyc/corc family transporter")
+(PFLU216595 :UNREVIEWED G1G1K-1967-MONOMER NIL NIL () () () IMPORT ATP "abc" NIL NIL T (#<"G1G1K-1967" instance frame in PFLU216595BASE[F]
+                                                                                          @
+                                                                                          #x101c4d97682>) "abc transporter atp-binding protein")
+(PFLU216595 :UNREVIEWED G1G1K-4924-MONOMER NIL NIL () () PROTON EXPORT SECONDARY "rnd" NIL NIL T (#<"G1G1K-4924" instance frame in PFLU216595BASE[F]
+                                                                                                    @
+                                                                                                    #x101c5e89762>) "multidrug efflux rnd transporter permease subunit")
+(PFLU216595 :UNREVIEWED G1G1K-1968-MONOMER NIL NIL () () () IMPORT ATP "abc" NIL NIL T (#<"G1G1K-1968" instance frame in PFLU216595BASE[F]
+                                                                                          @
+                                                                                          #x101c4d97012>) "abc transporter atp-binding protein")
+(PFLU216595 :UNREVIEWED G1G1K-2958-MONOMER NIL NIL () () PROTON IMPORT SECONDARY "mfs" NIL NIL T (#<"G1G1K-2958" instance frame in PFLU216595BASE[F]
+                                                                                                    @
+                                                                                                    #x101c6248a12>) "mfs transporter")
+(PFLU216595 :UNREVIEWED G1G1K-4925-MONOMER NIL NIL () () () EXPORT UNKNOWN NIL NIL NIL T (#<"G1G1K-4925" instance frame in PFLU216595BASE[F]
+                                                                                            @
+                                                                                            #x101c5e85c62>) "mexx family efflux pump subunit")
+(PFLU216595 :UNREVIEWED G1G1K-101-MONOMER NIL NIL () () () IMPORT ATP "abc" NIL NIL T (#<"G1G1K-101" instance frame in PFLU216595BASE[F]
+                                                                                         @
+                                                                                         #x101c4445462>) "metal abc transporter permease")
+(PFLU216595 :UNREVIEWED G1G1K-6290-MONOMER NIL NIL () () () IMPORT ATP "abc" NIL NIL T (#<"G1G1K-6290" instance frame in PFLU216595BASE[F]
+                                                                                          @
+                                                                                          #x101c4ca3292>) "iron abc transporter")
+(PFLU216595 :UNREVIEWED G1G1K-5316-MONOMER NIL NIL () () PROTON IMPORT SECONDARY "mfs" NIL NIL T (#<"G1G1K-5316" instance frame in PFLU216595BASE[F]
+                                                                                                    @
+                                                                                                    #x101c59961a2>) "mfs transporter")
+(PFLU216595 :UNREVIEWED G1G1K-4313-MONOMER NIL NIL () () PROTON EXPORT SECONDARY "rnd" NIL NIL T (#<"G1G1K-4313" instance frame in PFLU216595BASE[F]
+                                                                                                    @
+                                                                                                    #x101c4cb7c02>) "multidrug efflux rnd transporter permease subunit")
+(PFLU216595 :UNREVIEWED G1G1K-6297-MONOMER NIL NIL () () () IMPORT UNKNOWN NIL NIL NIL T (#<"G1G1K-6297" instance frame in PFLU216595BASE[F]
+                                                                                            @
+                                                                                            #x101c4c8c7f2>) "transporter")
+(PFLU216595 :UNREVIEWED G1G1K-4314-MONOMER NIL NIL () () PROTON EXPORT SECONDARY "rnd" NIL NIL T (#<"G1G1K-4314" instance frame in PFLU216595BASE[F]
+                                                                                                    @
+                                                                                                    #x101c4cb42c2>) "mexe family multidrug efflux rnd transporter periplasmic adaptor subunit")
+(PFLU216595 :UNREVIEWED G1G1K-5518-MONOMER NIL NIL () () () IMPORT UNKNOWN NIL NIL NIL T (#<"G1G1K-5518" instance frame in PFLU216595BASE[F]
+                                                                                            @
+                                                                                            #x101c493edb2>) "transporter")
+(PFLU216595 :UNREVIEWED G1G1K-134-MONOMER NIL NIL () () () IMPORT ATP "abc" NIL NIL T (#<"G1G1K-134" instance frame in PFLU216595BASE[F]
+                                                                                         @
+                                                                                         #x101c4413222>) "iron abc transporter atp-binding protein")
+(PFLU216595 :UNREVIEWED G1G1K-135-MONOMER NIL NIL () () () IMPORT ATP "abc" NIL NIL T (#<"G1G1K-135" instance frame in PFLU216595BASE[F]
+                                                                                         @
+                                                                                         #x101c4411f72>) "abc transporter permease")
+(PFLU216595 :UNREVIEWED G1G1K-6301-MONOMER NIL NIL () () () IMPORT ATP "abc" NIL NIL T (#<"G1G1K-6301" instance frame in PFLU216595BASE[F]
+                                                                                          @
+                                                                                          #x101c4c82252>) "abc transporter substrate-binding protein")
+(PFLU216595 :UNREVIEWED G1G1K-4137-MONOMER NIL NIL () () () IMPORT ATP "abc" NIL NIL T (#<"G1G1K-4137" instance frame in PFLU216595BASE[F]
+                                                                                          @
+                                                                                          #x101c630a8e2>) "abc transporter substrate-binding protein")
+(PFLU216595 :UNREVIEWED G1G1K-8421-MONOMER NIL NIL () () () IMPORT UNKNOWN NIL NIL NIL T (#<"G1G1K-8421" instance frame in PFLU216595BASE[F]
+                                                                                            @
+                                                                                            #x101c606e7c2>) "murein hydrolase transporter lrga")
+(PFLU216595 :UNREVIEWED G1G1K-1981-MONOMER NIL NIL () () PROTON IMPORT SECONDARY "mfs" NIL NIL T (#<"G1G1K-1981" instance frame in PFLU216595BASE[F]
+                                                                                                    @
+                                                                                                    #x101c4d8fec2>) "mfs transporter")
+(PFLU216595 :UNREVIEWED G1G1K-6308-MONOMER NIL NIL () () PROTON IMPORT SECONDARY "mfs" NIL NIL T (#<"G1G1K-6308" instance frame in PFLU216595BASE[F]
+                                                                                                    @
+                                                                                                    #x101c4c6e1e2>) "mfs transporter")
+(PFLU216595 :UNREVIEWED G1G1K-176-MONOMER NIL NIL () () () IMPORT ATP "abc" NIL NIL T (#<"G1G1K-176" instance frame in PFLU216595BASE[F]
+                                                                                         @
+                                                                                         #x101c43d55b2>) "abc transporter permease")
+(PFLU216595 :UNREVIEWED G1G1K-1568-MONOMER NIL NIL () () PROTON IMPORT SECONDARY "mfs" NIL NIL T (#<"G1G1K-1568" instance frame in PFLU216595BASE[F]
+                                                                                                    @
+                                                                                                    #x101c4e1d1e2>) "mfs transporter")
+(PFLU216595 :UNREVIEWED G1G1K-4935-MONOMER NIL NIL () () () IMPORT ATP "abc" NIL NIL T (#<"G1G1K-4935" instance frame in PFLU216595BASE[F]
+                                                                                          @
+                                                                                          #x101c5e66fd2>) "abc transporter atp-binding protein")
+(PFLU216595 :UNREVIEWED G1G1K-185-MONOMER NIL NIL () () PROTON IMPORT SECONDARY "rnd" NIL NIL T (#<"G1G1K-185" instance frame in PFLU216595BASE[F]
+                                                                                                   @
+                                                                                                   #x101c43c4112>) "rnd transporter")
+(PFLU216595 :UNREVIEWED G1G1K-198-MONOMER NIL NIL () () PROTON IMPORT SECONDARY "rnd" NIL NIL T (#<"G1G1K-198" instance frame in PFLU216595BASE[F]
+                                                                                                   @
+                                                                                                   #x101c43b3b12>) "rnd transporter")
+(PFLU216595 :UNREVIEWED G1G1K-4937-MONOMER NIL NIL () () () IMPORT ATP "abc" NIL NIL T (#<"G1G1K-4937" instance frame in PFLU216595BASE[F]
+                                                                                          @
+                                                                                          #x101c5e61b62>) "abc transporter atp-binding protein")
+(PFLU216595 :UNREVIEWED G1G1K-6320-MONOMER NIL NIL () () () IMPORT UNKNOWN NIL NIL NIL T (#<"G1G1K-6320" instance frame in PFLU216595BASE[F]
+                                                                                            @
+                                                                                            #x101c4c4bbd2>) "multidrug transporter")
+(PFLU216595 :UNREVIEWED G1G1K-6321-MONOMER NIL NIL () () PROTON EXPORT SECONDARY "rnd" NIL NIL T (#<"G1G1K-6321" instance frame in PFLU216595BASE[F]
+                                                                                                    @
+                                                                                                    #x101c4c49ae2>) "multidrug efflux rnd transporter permease subunit")
+(PFLU216595 :UNREVIEWED G1G1K-6322-MONOMER NIL NIL () () PROTON IMPORT SECONDARY "rnd" NIL NIL T (#<"G1G1K-6322" instance frame in PFLU216595BASE[F]
+                                                                                                    @
+                                                                                                    #x101c4c44572>) "rnd transporter")
+(PFLU216595 :UNREVIEWED G1G1K-5536-MONOMER NIL NIL () () () IMPORT CHANNEL "channel" NIL NIL T (#<"G1G1K-5536" instance frame in PFLU216595BASE[F]
+                                                                                                  @
+                                                                                                  #x101c48ff182>) "mechanosensitive ion channel protein mscs")
+(PFLU216595 :UNREVIEWED G1G1K-7555-MONOMER NIL NIL () () () IMPORT CHANNEL "channel" NIL NIL T (#<"G1G1K-7555" instance frame in PFLU216595BASE[F]
+                                                                                                  @
+                                                                                                  #x101c4a42542>) "mechanosensitive ion channel protein mscs")
+(PFLU216595 :UNREVIEWED G1G1K-3594-MONOMER NIL NIL () () () IMPORT ATP "abc" NIL NIL T (#<"G1G1K-3594" instance frame in PFLU216595BASE[F]
+                                                                                          @
+                                                                                          #x101c4af7942>) "abc transporter atp-binding protein")
+(PFLU216595 :UNREVIEWED G1G1K-5540-MONOMER NIL NIL () () () IMPORT CHANNEL "channel" NIL NIL T (#<"G1G1K-5540" instance frame in PFLU216595BASE[F]
+                                                                                                  @
+                                                                                                  #x101c48f38b2>) "ligand-gated channel")
+(PFLU216595 :UNREVIEWED G1G1K-3596-MONOMER NIL NIL () () () IMPORT ATP "abc" NIL NIL T (#<"G1G1K-3596" instance frame in PFLU216595BASE[F]
+                                                                                          @
+                                                                                          #x101c4af39e2>) "abc transporter permease")
+(PFLU216595 :UNREVIEWED G1G1K-262-MONOMER NIL NIL () () () IMPORT ATP "abc" NIL NIL T (#<"G1G1K-262" instance frame in PFLU216595BASE[F]
+                                                                                         @
+                                                                                         #x101c4fbf342>) "abc transporter permease")
+(PFLU216595 :UNREVIEWED G1G1K-3597-MONOMER NIL NIL () () () IMPORT ATP "abc" NIL NIL T (#<"G1G1K-3597" instance frame in PFLU216595BASE[F]
+                                                                                          @
+                                                                                          #x101c4af1b12>) "abc transporter substrate-binding protein")
+(PFLU216595 :UNREVIEWED G1G1K-8473-MONOMER NIL NIL () () () IMPORT ATP "abc" NIL NIL T (#<"G1G1K-8473" instance frame in PFLU216595BASE[F]
+                                                                                          @
+                                                                                          #x101c5ff3862>) "abc transporter substrate-binding protein")
+(PFLU216595 :UNREVIEWED G1G1K-4161-MONOMER NIL NIL () () () IMPORT UNKNOWN NIL NIL NIL T (#<"G1G1K-4161" instance frame in PFLU216595BASE[F]
+                                                                                            @
+                                                                                            #x101c62a3642>) "transporter")
+(PFLU216595 :UNREVIEWED G1G1K-280-MONOMER NIL NIL () () () IMPORT ATP "abc" NIL NIL T (#<"G1G1K-280" instance frame in PFLU216595BASE[F]
+                                                                                         @
+                                                                                         #x101c4fb9fc2>) "abc transporter permease")
+(PFLU216595 :UNREVIEWED G1G1K-287-MONOMER NIL NIL () () PROTON IMPORT SECONDARY "mfs" NIL NIL T (#<"G1G1K-287" instance frame in PFLU216595BASE[F]
+                                                                                                   @
+                                                                                                   #x101c4fb7cb2>) "mfs transporter")
+(PFLU216595 :UNREVIEWED G1G1K-290-MONOMER NIL NIL () () () IMPORT UNKNOWN NIL NIL NIL T (#<"G1G1K-290" instance frame in PFLU216595BASE[F]
+                                                                                           @
+                                                                                           #x101c4fb6ea2>) "biopolymer transporter exbb")
+(PFLU216595 :UNREVIEWED G1G1K-291-MONOMER NIL NIL () () () IMPORT UNKNOWN NIL NIL NIL T (#<"G1G1K-291" instance frame in PFLU216595BASE[F]
+                                                                                           @
+                                                                                           #x101c4fb6932>) "biopolymer transporter exbd")
+(PFLU216595 :UNREVIEWED G1G1K-4167-MONOMER NIL NIL () () () IMPORT ATP "abc" NIL NIL T (#<"G1G1K-4167" instance frame in PFLU216595BASE[F]
+                                                                                          @
+                                                                                          #x101c6286702>) "abc transporter atp-binding protein")
+(PFLU216595 :UNREVIEWED G1G1K-2151-MONOMER NIL NIL () () () IMPORT UNKNOWN NIL NIL NIL T (#<"G1G1K-2151" instance frame in PFLU216595BASE[F]
+                                                                                            @
+                                                                                            #x101c4d2a6d2>) "ai-2e family transporter")
+(PFLU216595 :UNREVIEWED G1G1K-4168-MONOMER NIL NIL () () () IMPORT ATP "abc" NIL NIL T (#<"G1G1K-4168" instance frame in PFLU216595BASE[F]
+                                                                                          @
+                                                                                          #x101c6283ff2>) "abc transporter permease")
+(PFLU216595 :UNREVIEWED G1G1K-8490-MONOMER NIL NIL () () () IMPORT ATP "abc" NIL NIL T (#<"G1G1K-8490" instance frame in PFLU216595BASE[F]
+                                                                                          @
+                                                                                          #x101c5fd3892>) "abc transporter atp-binding protein")
+(PFLU216595 :UNREVIEWED G1G1K-321-MONOMER NIL NIL () () PROTON IMPORT SECONDARY "rnd" NIL NIL T (#<"G1G1K-321" instance frame in PFLU216595BASE[F]
+                                                                                                   @
+                                                                                                   #x101c4fae2a2>) "rnd transporter")
+(PFLU216595 :UNREVIEWED G1G1K-322-MONOMER NIL NIL () () PROTON IMPORT SECONDARY "rnd" NIL NIL T (#<"G1G1K-322" instance frame in PFLU216595BASE[F]
+                                                                                                   @
+                                                                                                   #x101c4fade42>) "rnd transporter")
+(PFLU216595 :UNREVIEWED G1G1K-8491-MONOMER NIL NIL () () () IMPORT ATP "abc" NIL NIL T (#<"G1G1K-8491" instance frame in PFLU216595BASE[F]
+                                                                                          @
+                                                                                          #x101c5fd27d2>) "abc transporter permease")
+(PFLU216595 :UNREVIEWED G1G1K-4169-MONOMER NIL NIL () () () IMPORT ATP "abc" NIL NIL T (#<"G1G1K-4169" instance frame in PFLU216595BASE[F]
+                                                                                          @
+                                                                                          #x101c627b872>) "microcin c abc transporter permease yejb")
+(PFLU216595 :UNREVIEWED G1G1K-330-MONOMER NIL NIL () () () IMPORT ATP "abc" NIL NIL T (#<"G1G1K-330" instance frame in PFLU216595BASE[F]
+                                                                                         @
+                                                                                         #x101c4fabb82>) "metal abc transporter permease")
+(PFLU216595 :UNREVIEWED G1G1K-2008-MONOMER NIL NIL () () PROTON IMPORT SECONDARY "mfs" NIL NIL T (#<"G1G1K-2008" instance frame in PFLU216595BASE[F]
+                                                                                                    @
+                                                                                                    #x101c4d81d42>) "mfs transporter")
+(PFLU216595 :UNREVIEWED G1G1K-7594-MONOMER NIL NIL () () PROTON IMPORT SECONDARY "mfs" NIL NIL T (#<"G1G1K-7594" instance frame in PFLU216595BASE[F]
+                                                                                                    @
+                                                                                                    #x101c49cccc2>) "mfs transporter")
+(PFLU216595 :UNREVIEWED G1G1K-4170-MONOMER NIL NIL () () () IMPORT ATP "abc" NIL NIL T (#<"G1G1K-4170" instance frame in PFLU216595BASE[F]
+                                                                                          @
+                                                                                          #x101c6275b02>) "abc transporter substrate-binding protein")
+(PFLU216595 :UNREVIEWED G1G1K-8508-MONOMER NIL NIL () () () IMPORT CHANNEL "channel" NIL NIL T (#<"G1G1K-8508" instance frame in PFLU216595BASE[F]
+                                                                                                  @
+                                                                                                  #x101c5fb7162>) "mechanosensitive ion channel protein")
+(PFLU216595 :UNREVIEWED G1G1K-4348-MONOMER NIL NIL () () () IMPORT ATP "abc" NIL NIL T (#<"G1G1K-4348" instance frame in PFLU216595BASE[F]
+                                                                                          @
+                                                                                          #x101c4c1c0f2>) "abc transporter atp-binding protein")
+(PFLU216595 :UNREVIEWED G1G1K-8518-MONOMER NIL NIL () () PROTON IMPORT SECONDARY "permease" NIL NIL T (#<"G1G1K-8518" instance frame in PFLU216595BASE[F]
+                                                                                                         @
+                                                                                                         #x101c5fa89f2>) "permease")
+(PFLU216595 :UNREVIEWED G1G1K-4172-MONOMER NIL NIL () () () IMPORT ATP "abc" NIL NIL T (#<"G1G1K-4172" instance frame in PFLU216595BASE[F]
+                                                                                          @
+                                                                                          #x101c626ea12>) "abc transporter atp-binding protein")
+(PFLU216595 :UNREVIEWED G1G1K-6374-MONOMER NIL NIL () () () IMPORT ATP "abc" NIL NIL T (#<"G1G1K-6374" instance frame in PFLU216595BASE[F]
+                                                                                          @
+                                                                                          #x101c4aedfa2>) "abc transporter permease")
+(PFLU216595 :UNREVIEWED G1G1K-4173-MONOMER NIL NIL () () () IMPORT ATP "abc" NIL NIL T (#<"G1G1K-4173" instance frame in PFLU216595BASE[F]
+                                                                                          @
+                                                                                          #x101c62685f2>) "abc transporter permease")
+(PFLU216595 :UNREVIEWED G1G1K-4174-MONOMER NIL NIL () () () IMPORT ATP "abc" NIL NIL T (#<"G1G1K-4174" instance frame in PFLU216595BASE[F]
+                                                                                          @
+                                                                                          #x101c62645f2>) "microcin c abc transporter permease yejb")
+(PFLU216595 :UNREVIEWED G1G1K-2162-MONOMER NIL NIL () () () IMPORT UNKNOWN NIL NIL NIL T (#<"G1G1K-2162" instance frame in PFLU216595BASE[F]
+                                                                                            @
+                                                                                            #x101c4d1e892>) "colicin transporter")
+(PFLU216595 :UNREVIEWED G1G1K-8525-MONOMER NIL NIL () () PROTON IMPORT SECONDARY "mfs" NIL NIL T (#<"G1G1K-8525" instance frame in PFLU216595BASE[F]
+                                                                                                    @
+                                                                                                    #x101c5f9c122>) "mfs transporter")
+(PFLU216595 :UNREVIEWED G1G1K-4175-MONOMER NIL NIL () () () IMPORT ATP "abc" NIL NIL T (#<"G1G1K-4175" instance frame in PFLU216595BASE[F]
+                                                                                          @
+                                                                                          #x101c6261e22>) "abc transporter substrate-binding protein")
+(PFLU216595 :UNREVIEWED G1G1K-4176-MONOMER NIL NIL () () () IMPORT ATP "abc" NIL NIL T (#<"G1G1K-4176" instance frame in PFLU216595BASE[F]
+                                                                                          @
+                                                                                          #x101c625d2e2>) "abc transporter substrate-binding protein")
+(PFLU216595 :UNREVIEWED G1G1K-2166-MONOMER NIL NIL () () PROTON IMPORT SECONDARY "mfs" NIL NIL T (#<"G1G1K-2166" instance frame in PFLU216595BASE[F]
+                                                                                                    @
+                                                                                                    #x101c4d1a222>) "mfs transporter")
+(PFLU216595 :UNREVIEWED G1G1K-3615-MONOMER NIL NIL () () () IMPORT UNKNOWN NIL NIL NIL T (#<"G1G1K-3615" instance frame in PFLU216595BASE[F]
+                                                                                            @
+                                                                                            #x101c4ac7ee2>) "gntp family transporter")
+(PFLU216595 :UNREVIEWED G1G1K-7643-MONOMER NIL NIL () () PROTON EXPORT SECONDARY "rnd" NIL NIL T (#<"G1G1K-7643" instance frame in PFLU216595BASE[F]
+                                                                                                    @
+                                                                                                    #x101c4928162>) "mexh family multidrug efflux rnd transporter periplasmic adaptor subunit")
+(PFLU216595 :UNREVIEWED G1G1K-7644-MONOMER NIL NIL () () () EXPORT UNKNOWN NIL NIL NIL T (#<"G1G1K-7644" instance frame in PFLU216595BASE[F]
+                                                                                            @
+                                                                                            #x101c4926732>) "multidrug efflux protein")

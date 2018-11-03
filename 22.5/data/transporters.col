@@ -1,0 +1,223 @@
+# 
+#
+# Authors:
+#    Pallavi Subhraveti
+#    Quang Ong
+#    Ingrid Keseler
+#    Anamika Kothari
+#    Ron Caspi
+#    Peter D Karp
+#
+# Please see the license agreement regarding the use of and distribution of this file.
+# The format of this file is defined at http://bioinformatics.ai.sri.com/ptools/flatfile-format.html .
+#
+# Species: Pseudomonas fluorescens SBW25
+# Database: PFLU216595CYC
+# Version: 22.5
+# File Name: transporters.col
+# Date and time generated: September 10, 2018, 16:38:43
+#
+UNIQUE-ID	NAME	REACTION-EQUATION	SUBUNIT-COMPOSITION
+G1G1K-9150-MONOMER	aliphatic sulfonates ABC transporter ATP-binding protein	an aliphatic sulfonate[periplasm] + ATP + H2O  <-->  an aliphatic sulfonate[cytosol] + ADP + phosphate	1*G1G1K-9150-MONOMER
+G1G1K-1922-MONOMER	histidine/lysine/arginine/ornithine ABC transporter permease HisM	a polar amino acid[out] + ATP + H2O  <-->  a polar amino acid[in] + ADP + phosphate	1*G1G1K-1922-MONOMER
+G1G1K-1922-MONOMER	histidine/lysine/arginine/ornithine ABC transporter permease HisM	ATP + L-glutamate[out] + H2O  <-->  ADP + L-glutamate[in] + phosphate + H+	1*G1G1K-1922-MONOMER
+		2 H+[in]  <-->  2 H+[out]	
+G1G1K-7770-MONOMER	trehalose permease IIC protein	an [HPr protein]-Npi-phospho-L-histidine + L-sorbofuranose[out]  <-->  L-sorbofuranose 1-phosphate[in] + an [HPr]-L-histidine	1*G1G1K-7770-MONOMER
+G1G1K-828-MONOMER	cation diffusion facilitator transporter	a cation[periplasm] + H+[periplasm]  <-->  a cation[cytosol] + H+[cytosol]	1*G1G1K-828-MONOMER
+G1G1K-1922-MONOMER	histidine/lysine/arginine/ornithine ABC transporter permease HisM	ATP + L-glutamine[out] + H2O  <-->  ADP + L-glutamine[in] + phosphate + H+	1*G1G1K-1922-MONOMER
+G1G1K-6535-MONOMER	alkanesulfonate transporter	an alkylsulfonate[periplasm]  <-->  an alkylsulfonate[cytosol]	1*G1G1K-6535-MONOMER
+G1G1K-3874-MONOMER	nucleoside-specific channel-forming protein Tsx	a nucleoside[periplasm]  <-->  a nucleoside[cytosol]	1*G1G1K-3874-MONOMER
+G1G1K-7770-MONOMER	trehalose permease IIC protein	an [HPr protein]-Npi-phospho-L-histidine + alpha-D-galactose[out]  <-->  alpha-D-galactose 6-phosphate[in] + an [HPr]-L-histidine	1*G1G1K-7770-MONOMER
+G1G1K-3026-MONOMER	alanine glycine permease	L-alanine[periplasm] + glycine[periplasm]  <-->  L-alanine[cytosol] + glycine[cytosol]	1*G1G1K-3026-MONOMER
+G1G1K-79-MONOMER	SulP family inorganic anion transporter	an inorganic anion[periplasm]  <-->  an inorganic anion[cytosol]	1*G1G1K-79-MONOMER
+G1G1K-1996-MONOMER	aromatic acid/H+ symport family MFS transporter	an aromatic carboxylate[periplasm] + H+[periplasm]  <-->  an aromatic carboxylate[cytosol] + H+[cytosol]	1*G1G1K-1996-MONOMER
+G1G1K-3433-MONOMER	D-ala-D-ala transporter subunit	D-alanyl-D-alanine[periplasm]  <-->  D-alanyl-D-alanine[cytosol]	1*G1G1K-3433-MONOMER
+G1G1K-2628-MONOMER	heme ABC exporter ATP-binding protein CcmA	ferroheme b[in] + ATP + H2O  <-->  ferroheme b[out] + ADP + phosphate + H+	1*G1G1K-2628-MONOMER
+G1G1K-4451-MONOMER	nicotinamide mononucleotide transporter PnuC	a nicotinamide mononucleotide[periplasm]  <-->  a nicotinamide mononucleotide[cytosol]	1*G1G1K-4451-MONOMER
+G1G1K-7159-MONOMER	arabinose ABC transporter substrate-binding protein	alpha-L-arabinopyranose[periplasm] + ATP + H2O  <-->  alpha-L-arabinopyranose[cytosol] + ADP + phosphate	1*G1G1K-7159-MONOMER
+G1G1K-7770-MONOMER	trehalose permease IIC protein	2-deoxy-D-glucose[out] + an [HPr protein]-Npi-phospho-L-histidine  <-->  an [HPr]-L-histidine[in] + 2-deoxy-D-glucose 6-phosphate	1*G1G1K-7770-MONOMER
+G1G1K-8935-MONOMER	malonate transporter subunit MadL	malonate[periplasm]  <-->  malonate[cytosol]	1*G1G1K-8935-MONOMER
+G1G1K-7770-MONOMER	trehalose permease IIC protein	an [HPr protein]-Npi-phospho-L-histidine + 2-amino-2-deoxy-D-gluconate[out]  <-->  2-amino-2-deoxy-D-gluconate 6-phosphate[in] + an [HPr]-L-histidine	1*G1G1K-7770-MONOMER
+G1G1K-1922-MONOMER	histidine/lysine/arginine/ornithine ABC transporter permease HisM	ATP + L-histidine[out] + H2O  <-->  ADP + L-histidine[in] + phosphate + H+	1*G1G1K-1922-MONOMER
+G1G1K-1312-MONOMER	phospholipid ABC transporter ATP-binding protein MlaF	a phospholipid[periplasm] + ATP + H2O  <-->  a phospholipid[cytosol] + ADP + phosphate	1*G1G1K-1312-MONOMER
+G1G1K-7770-MONOMER	trehalose permease IIC protein	an [HPr protein]-Npi-phospho-L-histidine + L-ascorbate[out]  <-->  L-ascorbate 6-phosphate[in] + an [HPr]-L-histidine	1*G1G1K-7770-MONOMER
+G1G1K-7770-MONOMER	trehalose permease IIC protein	an [HPr protein]-Npi-phospho-L-histidine + D-glucosamine[out]  <-->  D-glucosamine 6-phosphate[in] + an [HPr]-L-histidine	1*G1G1K-7770-MONOMER
+G1G1K-9485-MONOMER	cation:proton antiporter	a cation[periplasm] + H+[cytosol]  <-->  a cation[cytosol] + H+[periplasm]	1*G1G1K-9485-MONOMER
+G1G1K-2740-MONOMER	branched-chain amino acid transport system II carrier protein	a branched-chain amino acid[periplasm] + H+[periplasm]  <-->  a branched-chain amino acid[cytosol] + H+[cytosol]	1*G1G1K-2740-MONOMER
+G1G1K-7770-MONOMER	trehalose permease IIC protein	an [HPr protein]-Npi-phospho-L-histidine + alpha,beta-trehalose[out]  <-->  alpha,beta-trehalose 6-phosphate[in] + an [HPr]-L-histidine	1*G1G1K-7770-MONOMER
+G1G1K-5244-MONOMER	proline/betaine transporter	L-proline betaine[periplasm]  <-->  L-proline betaine[cytosol]	1*G1G1K-5244-MONOMER
+G1G1K-7770-MONOMER	trehalose permease IIC protein	an [HPr protein]-Npi-phospho-L-histidine + L-sorbopyranose[out]  <-->  L-sorbopyranose 1-phosphate[in] + an [HPr]-L-histidine	1*G1G1K-7770-MONOMER
+G1G1K-8902-MONOMER	formate transporter	formate[cytosol]  <-->  formate[periplasm]	1*G1G1K-8902-MONOMER
+G1G1K-9452-MONOMER	alanine:cation symporter family protein	L-alanine[periplasm] + a cation[periplasm]  <-->  L-alanine[cytosol] + a cation[cytosol]	1*G1G1K-9452-MONOMER
+G1G1K-7770-MONOMER	trehalose permease IIC protein	an [HPr protein]-Npi-phospho-L-histidine + alpha-L-sorbopyranose[out]  <-->  alpha-L-sorbopyranose 1-phosphate[in] + an [HPr]-L-histidine	1*G1G1K-7770-MONOMER
+G1G1K-2658-MONOMER	phosphonate ABC transporter ATP-binding protein	ATP + an alkylphosphonate[out] + H2O  <-->  ADP + an alkylphosphonate[in] + phosphate + H+	1*G1G1K-2658-MONOMER
+G1G1K-2484-MONOMER	ethanolamine permease	ethanolamine[periplasm] + H+[periplasm]  <-->  ethanolamine[cytosol] + H+[cytosol]	1*G1G1K-2484-MONOMER
+G1G1K-7051-MONOMER	zinc transporter ZntB	Zn2+[periplasm]  <-->  Zn2+[cytosol]	1*G1G1K-7051-MONOMER
+G1G1K-4041-MONOMER	macrolide ABC transporter permease/ATP-binding protein MacB	a macrolide[periplasm] + ATP + H2O  <-->  a macrolide[cytosol] + ADP + phosphate	1*G1G1K-4041-MONOMER
+G1G1K-1196-MONOMER	PTS fructose transporter subunit IIBC	an [HPr protein]-Npi-phospho-L-histidine + beta-D-fructofuranose[periplasm]  <-->  beta-D-fructofuranose 1-phosphate[cytosol] + an [HPr]-L-histidine	1*G1G1K-1196-MONOMER
+G1G1K-281-MONOMER	nitrate ABC transporter substrate-binding protein	nitrate[periplasm] + ATP + H2O  <-->  nitrate[cytosol] + ADP + phosphate	1*G1G1K-281-MONOMER
+CPLX1G1K-27	predicted ABC transporter of a carbohydrate	a carbohydrate[periplasm] + ATP + H2O  <-->  a carbohydrate[cytosol] + ADP + phosphate	1*G1G1K-7420-MONOMER,1*G1G1K-7424-MONOMER
+G1G1K-7770-MONOMER	trehalose permease IIC protein	an [HPr protein]-Npi-phospho-L-histidine + D-mannitol[out]  <-->  D-mannitol 1-phosphate[in] + an [HPr]-L-histidine	1*G1G1K-7770-MONOMER
+CPLX1G1K-12	predicted ABC efflux transporter of a lipopolysaccharide	a lipopolysaccharide[cytosol] + ATP + H2O  <-->  a lipopolysaccharide[periplasm] + ADP + phosphate	1*G1G1K-1538-MONOMER,1*G1G1K-1539-MONOMER
+		n H+[in]  <-->  n H+[out]	
+G1G1K-7770-MONOMER	trehalose permease IIC protein	an [HPr protein]-Npi-phospho-L-histidine + D-mannose[out]  <-->  D-mannose 6-phosphate[in] + an [HPr]-L-histidine	1*G1G1K-7770-MONOMER
+G1G1K-7770-MONOMER	trehalose permease IIC protein	an [HPr protein]-Npi-phospho-L-histidine + keto-L-sorbose[out]  <-->  keto-L-sorbose 1-phosphate[in] + an [HPr]-L-histidine	1*G1G1K-7770-MONOMER
+CPLX1G1K-13	predicted ABC transporter of choline	choline[periplasm] + ATP + H2O  <-->  choline[cytosol] + ADP + phosphate	1*G1G1K-8821-MONOMER,1*G1G1K-8822-MONOMER
+G1G1K-5023-MONOMER	APC family amino acid permease	an amino acid[periplasm] + H+[periplasm]  <-->  an amino acid[cytosol] + H+[cytosol]	1*G1G1K-5023-MONOMER
+G1G1K-2658-MONOMER	phosphonate ABC transporter ATP-binding protein	phosphonate[out] + ATP + H2O  <-->  phosphonate[in] + ADP + phosphate + H+	1*G1G1K-2658-MONOMER
+G1G1K-7770-MONOMER	trehalose permease IIC protein	N-acetyl-D-muramate[out] + an [HPr protein]-Npi-phospho-L-histidine  <-->  N-acetyl-D-muramate 6-phosphate[in] + an [HPr]-L-histidine	1*G1G1K-7770-MONOMER
+CPLX1G1K-4	predicted ABC transporter of phosphate	ATP + phosphate[periplasm] + H2O  <-->  ADP + 2 phosphate[cytosol] + H+	1*G1G1K-5063-MONOMER,1*G1G1K-5064-MONOMER,1*G1G1K-5065-MONOMER,1*G1G1K-5066-MONOMER
+G1G1K-8720-MONOMER	glutamine ABC transporter ATP-binding protein	L-glutamine[periplasm] + ATP + H2O  <-->  L-glutamine[cytosol] + ADP + phosphate	1*G1G1K-8720-MONOMER
+G1G1K-658-MONOMER	sodium:proline symporter	Na+[periplasm] + L-proline[periplasm]  <-->  Na+[cytosol] + L-proline[cytosol]	1*G1G1K-658-MONOMER
+G1G1K-3842-MONOMER	divalent metal cation transporter	a cation[periplasm]  <-->  a cation[cytosol]	1*G1G1K-3842-MONOMER
+CPLX1G1K-30	predicted ABC transporter of a sugar	a sugar[periplasm] + ATP + H2O  <-->  a sugar[cytosol] + ADP + phosphate	1*G1G1K-4814-MONOMER,1*G1G1K-4816-MONOMER
+G1G1K-6675-MONOMER	purine permease	a purine[periplasm] + H+[periplasm]  <-->  a purine[cytosol] + H+[cytosol]	1*G1G1K-6675-MONOMER
+G1G1K-340-MONOMER	cystine transporter subunit	cystine[cytosol]  <-->  cystine[periplasm]	1*G1G1K-340-MONOMER
+G1G1K-7770-MONOMER	trehalose permease IIC protein	an [HPr protein]-Npi-phospho-L-histidine + salicin[out]  <-->  salicin 6-phosphate[in] + an [HPr]-L-histidine	1*G1G1K-7770-MONOMER
+G1G1K-1510-MONOMER	iron (III) dicitrate transporter	Fe3+[periplasm]  <-->  Fe3+[cytosol]	1*G1G1K-1510-MONOMER
+G1G1K-4289-MONOMER	xanthine transporter	xanthine[cytosol]  <-->  xanthine[periplasm]	1*G1G1K-4289-MONOMER
+G1G1K-7770-MONOMER	trehalose permease IIC protein	an [HPr protein]-Npi-phospho-L-histidine + sucrose[out]  <-->  an [HPr]-L-histidine + sucrose 6G-phosphate[in]	1*G1G1K-7770-MONOMER
+G1G1K-7770-MONOMER	trehalose permease IIC protein	an [HPr protein]-Npi-phospho-L-histidine + D-cellobiose[out]  <-->  D-cellobiose 6'-phosphate[in] + an [HPr]-L-histidine	1*G1G1K-7770-MONOMER
+G1G1K-7157-MONOMER	L-arabinose ABC transporter permease AraH	L-arabinose[periplasm] + ATP + H2O  <-->  L-arabinose[cytosol] + ADP + phosphate	1*G1G1K-7157-MONOMER
+G1G1K-7042-MONOMER	nitrate transporter	nitrate[periplasm]  <-->  nitrate[cytosol]	1*G1G1K-7042-MONOMER
+G1G1K-7624-MONOMER	glycerol-3-phosphate ABC transporter substrate-binding protein	sn-glycerol 3-phosphate[periplasm] + ATP + H2O  <-->  sn-glycerol 3-phosphate[cytosol] + ADP + phosphate	1*G1G1K-7624-MONOMER
+G1G1K-7770-MONOMER	trehalose permease IIC protein	an [HPr protein]-Npi-phospho-L-histidine + D-galactose[out]  <-->  a D-galactose 6-phosphate[in] + an [HPr]-L-histidine	1*G1G1K-7770-MONOMER
+G1G1K-7770-MONOMER	trehalose permease IIC protein	an [HPr protein]-Npi-phospho-L-histidine + aldehydo-D-mannose[out]  <-->  aldehydo-D-mannose 6-phosphate[in] + an [HPr]-L-histidine	1*G1G1K-7770-MONOMER
+G1G1K-7770-MONOMER	trehalose permease IIC protein	an [HPr protein]-Npi-phospho-L-histidine + alpha,alpha-trehalose[out]  <-->  alpha,alpha-trehalose 6-phosphate[in] + an [HPr]-L-histidine	1*G1G1K-7770-MONOMER
+CPLX1G1K-10	predicted ABC transporter of a polyamine	a polyamine[periplasm] + ATP + H2O  <-->  a polyamine[cytosol] + ADP + phosphate	1*G1G1K-9126-MONOMER,1*G1G1K-9127-MONOMER,1*G1G1K-9132-MONOMER
+G1G1K-4040-MONOMER	macrolide transporter subunit MacA	a macrolide[periplasm]  <-->  a macrolide[cytosol]	1*G1G1K-4040-MONOMER
+G1G1K-5334-MONOMER	serine/threonine transporter	L-threonine[cytosol]  <-->  L-threonine[periplasm]	1*G1G1K-5334-MONOMER
+G1G1K-7770-MONOMER	trehalose permease IIC protein	an [HPr protein]-Npi-phospho-L-histidine + beta-L-sorbofuranose[out]  <-->  beta-L-sorbofuranose 1-phosphate[in] + an [HPr]-L-histidine	1*G1G1K-7770-MONOMER
+G1G1K-2718-MONOMER	cation acetate symporter	a cation[periplasm] + acetate[periplasm]  <-->  a cation[cytosol] + acetate[cytosol]	1*G1G1K-2718-MONOMER
+G1G1K-7770-MONOMER	trehalose permease IIC protein	an [HPr protein]-Npi-phospho-L-histidine + 2-O-(alpha-D-mannosyl)-D-glycerate[out]  <-->  2-O-(6-phospho-alpha-D-mannosyl)-D-glycerate[in] + an [HPr]-L-histidine	1*G1G1K-7770-MONOMER
+G1G1K-5075-MONOMER	aspartate:proton symporter	L-aspartate[periplasm] + 2 H+[periplasm]  <-->  L-aspartate[cytosol] + 2 H+[cytosol]	1*G1G1K-5075-MONOMER
+G1G1K-3415-MONOMER	GABA permease	4-aminobutanoate[periplasm] + H+[periplasm]  <-->  4-aminobutanoate[cytosol] + H+[cytosol]	1*G1G1K-3415-MONOMER
+G1G1K-2460-MONOMER	flippase	a phospholipid[in] + ATP + H2O  <-->  a phospholipid[out] + ADP + phosphate + H+	1*G1G1K-2460-MONOMER
+CPLX1G1K-36	predicted ABC transporter of an amino acid	an amino acid[periplasm] + ATP + H2O  <-->  an amino acid[cytosol] + ADP + phosphate	1*G1G1K-4138-MONOMER,1*G1G1K-4139-MONOMER,1*G1G1K-4140-MONOMER
+G1G1K-1230-MONOMER	peptide transporter	a peptide[periplasm]  <-->  a peptide[cytosol]	1*G1G1K-1230-MONOMER
+G1G1K-1038-MONOMER	gluconate transporter	D-gluconate[periplasm]  <-->  D-gluconate[cytosol]	1*G1G1K-1038-MONOMER
+G1G1K-128-MONOMER	glutamate/aspartate:proton symporter GltP	glutamate[periplasm] + L-aspartate[periplasm]  <-->  glutamate[cytosol] + L-aspartate[cytosol]	1*G1G1K-128-MONOMER
+CPLX1G1K-14	predicted ABC transporter of glycine betaine	glycine betaine[periplasm] + ATP + H2O  <-->  glycine betaine[cytosol] + ADP + phosphate	1*G1G1K-1213-MONOMER,1*G1G1K-1216-MONOMER
+G1G1K-267-MONOMER	sulfate ABC transporter ATP-binding protein	ATP + thiosulfate[out] + H2O  <-->  ADP + thiosulfate[in] + phosphate + H+	1*G1G1K-267-MONOMER
+G1G1K-3494-MONOMER	xylose ABC transporter permease	a monosaccharide[out] + ATP + H2O  <-->  a monosaccharide[in] + ADP + phosphate	1*G1G1K-3494-MONOMER
+G1G1K-3106-MONOMER	threonine/homoserine exporter RhtA	L-homoserine[cytosol]  <-->  L-homoserine[periplasm]	1*G1G1K-3106-MONOMER
+G1G1K-3966-MONOMER	cyclic peptide transporter	a cyclic peptide[periplasm]  <-->  a cyclic peptide[cytosol]	1*G1G1K-3966-MONOMER
+G1G1K-7770-MONOMER	trehalose permease IIC protein	an [HPr protein]-Npi-phospho-L-histidine + N-acetyl-alpha-D-glucosamine[out]  <-->  N-acetyl-alpha-D-glucosamine 6-phosphate[in] + an [HPr]-L-histidine	1*G1G1K-7770-MONOMER
+G1G1K-7770-MONOMER	trehalose permease IIC protein	an [HPr protein]-Npi-phospho-L-histidine + L-sorbose[out]  <-->  an L-sorbose 1-phosphate[in] + an [HPr]-L-histidine	1*G1G1K-7770-MONOMER
+CPLX1G1K-16	predicted ABC transporter of urea	urea[periplasm] + ATP + H2O  <-->  urea[cytosol] + ADP + phosphate	1*G1G1K-873-MONOMER,1*G1G1K-876-MONOMER
+G1G1K-1196-MONOMER	PTS fructose transporter subunit IIBC	an [HPr protein]-Npi-phospho-L-histidine + alpha-D-fructofuranose[periplasm]  <-->  alpha-D-fructofuranose 1-phosphate[cytosol] + an [HPr]-L-histidine	1*G1G1K-1196-MONOMER
+G1G1K-7770-MONOMER	trehalose permease IIC protein	an [HPr protein]-Npi-phospho-L-histidine + beta-D-cellobiose[out]  <-->  beta-D-cellobiose 6'-phosphate[in] + an [HPr]-L-histidine	1*G1G1K-7770-MONOMER
+		a chitodextrin[out]  <-->  a chitodextrin[in]	
+G1G1K-7770-MONOMER	trehalose permease IIC protein	an [HPr protein]-Npi-phospho-L-histidine + D-sorbitol[out]  <-->  D-sorbitol 6-phosphate[in] + an [HPr]-L-histidine	1*G1G1K-7770-MONOMER
+G1G1K-5047-MONOMER	3-(3-hydroxy-phenyl)propionate transporter MhpT	3-(3-hydroxyphenyl)propanoate[periplasm]  <-->  3-(3-hydroxyphenyl)propanoate[cytosol]	1*G1G1K-5047-MONOMER
+G1G1K-7770-MONOMER	trehalose permease IIC protein	an [HPr protein]-Npi-phospho-L-histidine + D-galactopyranose[out]  <-->  D-galactopyranose 6-phosphate[in] + an [HPr]-L-histidine	1*G1G1K-7770-MONOMER
+G1G1K-1468-MONOMER	cyanate MFS transporter	cyanate[periplasm] + H+[periplasm]  <-->  cyanate[cytosol] + H+[cytosol]	1*G1G1K-1468-MONOMER
+G1G1K-8938-MONOMER	biotin-independent malonate decarboxylase subunit gamma	malonate + H+  <-->  acetate + CO2	1*G1G1K-8938-MONOMER
+G1G1K-1920-MONOMER	histidine/lysine/arginine/ornithine ABC transporter ATP-binding protein HisP	L-lysine[periplasm] + ATP + H2O  <-->  L-lysine[cytosol] + ADP + phosphate	1*G1G1K-1920-MONOMER
+G1G1K-4627-MONOMER	magnesium-translocating P-type ATPase	Mg2+[out] + ATP + H2O  <-->  Mg2+[in] + ADP + phosphate + H+	1*G1G1K-4627-MONOMER
+G1G1K-3494-MONOMER	xylose ABC transporter permease	D-glucopyranose[out] + ATP + H2O  <-->  D-glucopyranose[in] + ADP + phosphate + H+	1*G1G1K-3494-MONOMER
+G1G1K-1272-MONOMER	malate transporter	(RS)-malate[periplasm]  <-->  (RS)-malate[cytosol]	1*G1G1K-1272-MONOMER
+G1G1K-2547-MONOMER	anion permease	an anion[periplasm] + H+[periplasm]  <-->  an anion[cytosol] + H+[cytosol]	1*G1G1K-2547-MONOMER
+CPLX1G1K-8	predicted ABC transporter of spermidine/putrescine	spermidine[periplasm] + ATP + H2O  <-->  spermidine[cytosol] + ADP + phosphate	1*G1G1K-1769-MONOMER,1*G1G1K-1770-MONOMER,1*G1G1K-1773-MONOMER
+G1G1K-2116-MONOMER	tripartite tricarboxylate transporter TctB family protein	a tricarboxylate[periplasm]  <-->  a tricarboxylate[cytosol]	1*G1G1K-2116-MONOMER
+G1G1K-4757-MONOMER	dicarboxylate/amino acid:cation symporter	a dicarboxylate[periplasm] + an amino acid[periplasm]  <-->  a dicarboxylate[cytosol] + an amino acid[cytosol]	1*G1G1K-4757-MONOMER
+G1G1K-3541-MONOMER	ammonia channel protein	ammonia[periplasm]  <-->  ammonia[cytosol]	1*G1G1K-3541-MONOMER
+G1G1K-718-MONOMER	QacE family quaternary ammonium compound efflux SMR transporter	ammonium[cytosol] + H+[cytosol]  <-->  ammonium[periplasm] + H+[periplasm]	1*G1G1K-718-MONOMER
+G1G1K-7770-MONOMER	trehalose permease IIC protein	an [HPr protein]-Npi-phospho-L-histidine + beta-D-mannopyranose[out]  <-->  beta-D-mannopyranose 6-phosphate[in] + an [HPr]-L-histidine	1*G1G1K-7770-MONOMER
+G1G1K-6288-MONOMER	ferric citrate ABC transporter ATP-binding protein FecE	Fe3+[periplasm] + ATP + H2O  <-->  Fe3+[cytosol] + ADP + phosphate	1*G1G1K-6288-MONOMER
+CPLX1G1K-29	predicted ABC transporter of sulfate	sulfate[periplasm] + ATP + H2O  <-->  sulfate[cytosol] + ADP + phosphate	1*G1G1K-265-MONOMER,1*G1G1K-266-MONOMER
+G1G1K-5702-MONOMER	sugar transporter	a sugar[periplasm]  <-->  a sugar[cytosol]	1*G1G1K-5702-MONOMER
+G1G1K-5087-MONOMER	multidrug DMT transporter permease	3,5-dimethoxytoluene[periplasm] + H+[periplasm]  <-->  3,5-dimethoxytoluene[cytosol] + H+[cytosol]	1*G1G1K-5087-MONOMER
+G1G1K-995-MONOMER	calcium:proton antiporter	Ca2+[periplasm] + H+[cytosol]  <-->  Ca2+[cytosol] + H+[periplasm]	1*G1G1K-995-MONOMER
+G1G1K-4627-MONOMER	magnesium-translocating P-type ATPase	Mg2+[out] + ATP + H2O  <-->  Mg2+[in] + ADP + phosphate + H+	1*G1G1K-4627-MONOMER
+G1G1K-4756-MONOMER	citrate transporter	citrate[periplasm]  <-->  citrate[cytosol]	1*G1G1K-4756-MONOMER
+G1G1K-7524-MONOMER	fatty acid transporter membrane protein	a fatty acid[periplasm]  <-->  a fatty acid[cytosol]	1*G1G1K-7524-MONOMER
+G1G1K-7770-MONOMER	trehalose permease IIC protein	an [HPr protein]-Npi-phospho-L-histidine + alpha-maltose[out]  <-->  alpha-maltose 6'-phosphate[in] + an [HPr]-L-histidine	1*G1G1K-7770-MONOMER
+G1G1K-2489-MONOMER	potassium-transporting ATPase A chain	K+[out] + ATP + H2O  <-->  K+[in] + ADP + phosphate + H+	1*G1G1K-2489-MONOMER
+CPLX1G1K-1	predicted ABC transporter of Zn2+	Zn2+[periplasm] + ATP + H2O  <-->  Zn2+[cytosol] + ADP + phosphate	1*G1G1K-105-MONOMER,1*G1G1K-106-MONOMER,1*G1G1K-108-MONOMER
+G1G1K-4220-MONOMER	cobalt transporter	Co2+[periplasm]  <-->  Co2+[cytosol]	1*G1G1K-4220-MONOMER
+G1G1K-7770-MONOMER	trehalose permease IIC protein	an [HPr protein]-Npi-phospho-L-histidine + D-glucopyranose[out]  <-->  D-glucopyranose 6-phosphate[in] + an [HPr]-L-histidine	1*G1G1K-7770-MONOMER
+G1G1K-2115-MONOMER	tripartite tricarboxylate transporter permease	a tricarboxylate[periplasm] + H+[periplasm]  <-->  a tricarboxylate[cytosol] + H+[cytosol]	1*G1G1K-2115-MONOMER
+G1G1K-7770-MONOMER	trehalose permease IIC protein	an [HPr protein]-Npi-phospho-L-histidine + beta-L-sorbopyranose[out]  <-->  beta-L-sorbopyranose 1-phosphate[in] + an [HPr]-L-histidine	1*G1G1K-7770-MONOMER
+G1G1K-267-MONOMER	sulfate ABC transporter ATP-binding protein	sulfate[out] + ATP + H2O  <-->  sulfate[in] + ADP + phosphate + H+	1*G1G1K-267-MONOMER
+G1G1K-7770-MONOMER	trehalose permease IIC protein	an [HPr protein]-Npi-phospho-L-histidine + D-fructopyranose[out]  <-->  D-fructopyranose 1-phosphate[in] + an [HPr]-L-histidine	1*G1G1K-7770-MONOMER
+G1G1K-7770-MONOMER	trehalose permease IIC protein	an [HPr protein]-Npi-phospho-L-histidine + aldehydo-D-galactose[out]  <-->  aldehydo-D-galactose 6-phosphate[in] + an [HPr]-L-histidine	1*G1G1K-7770-MONOMER
+G1G1K-338-MONOMER	L-cystine ABC transporter ATP-binding protein YecC	L-cystine[periplasm] + ATP + H2O  <-->  L-cystine[cytosol] + ADP + phosphate	1*G1G1K-338-MONOMER
+G1G1K-1922-MONOMER	histidine/lysine/arginine/ornithine ABC transporter permease HisM	ATP + L-aspartate[out] + H2O  <-->  L-aspartate[in] + ADP + phosphate + H+	1*G1G1K-1922-MONOMER
+G1G1K-7770-MONOMER	trehalose permease IIC protein	an [HPr protein]-Npi-phospho-L-histidine + chitobiose[out]  <-->  chitobiose 6'-phosphate[in] + an [HPr]-L-histidine	1*G1G1K-7770-MONOMER
+		4 H+[in]  <-->  4 H+[out]	
+G1G1K-2489-MONOMER	potassium-transporting ATPase A chain	ATP + K+[out] + H2O  <-->  ADP + K+[in] + phosphate + H+	1*G1G1K-2489-MONOMER
+CPLX1G1K-6	predicted ABC transporter of putrescine	putrescine[periplasm] + ATP + H2O  <-->  putrescine[cytosol] + ADP + phosphate	1*G1G1K-9124-MONOMER,1*G1G1K-9125-MONOMER
+G1G1K-8134-MONOMER	L-lactate permease	(S)-lactate[periplasm] + H+[periplasm]  <-->  (S)-lactate[cytosol] + H+[cytosol]	1*G1G1K-8134-MONOMER
+G1G1K-2688-MONOMER	urea transporter	urea[cytosol]  <-->  urea[periplasm]	1*G1G1K-2688-MONOMER
+G1G1K-526-MONOMER	glycine betaine/L-proline ABC transporter ATP-binding protein	L-proline[periplasm] + ATP + H2O  <-->  L-proline[cytosol] + ADP + phosphate	1*G1G1K-526-MONOMER
+G1G1K-1922-MONOMER	histidine/lysine/arginine/ornithine ABC transporter permease HisM	ATP + L-arginine[out] + H2O  <-->  ADP + L-arginine[in] + phosphate + H+	1*G1G1K-1922-MONOMER
+CPLX1G1K-7	predicted ABC transporter of phosphonate	phosphonate[periplasm] + ATP + H2O  <-->  phosphonate[cytosol] + ADP + phosphate	1*G1G1K-2659-MONOMER,1*G1G1K-2663-MONOMER
+G1G1K-9498-MONOMER	manganese ABC transporter ATP-binding protein	Mn2+[periplasm] + ATP + H2O  <-->  Mn2+[cytosol] + ADP + phosphate	1*G1G1K-9498-MONOMER
+CPLX1G1K-2	predicted ABC transporter of Mo2+	Mo2+[periplasm] + ATP + H2O  <-->  Mo2+[cytosol] + ADP + phosphate	1*G1G1K-4639-MONOMER,1*G1G1K-4640-MONOMER
+G1G1K-1922-MONOMER	histidine/lysine/arginine/ornithine ABC transporter permease HisM	L-lysine[out] + ATP + H2O  <-->  L-lysine[in] + ADP + phosphate + H+	1*G1G1K-1922-MONOMER
+G1G1K-8126-MONOMER	nucleotide exchange factor GrpE	a nucleotide[periplasm] + H+[cytosol]  <-->  a nucleotide[cytosol] + H+[periplasm]	1*G1G1K-8126-MONOMER
+G1G1K-7770-MONOMER	trehalose permease IIC protein	an [HPr protein]-Npi-phospho-L-histidine + N-acetyl-beta-D-glucosamine[out]  <-->  N-acetyl-beta-D-glucosamine 6-phosphate[in] + an [HPr]-L-histidine	1*G1G1K-7770-MONOMER
+G1G1K-5345-MONOMER	C4-dicarboxylate transporter DctA	a C4-dicarboxylate[periplasm]  <-->  a C4-dicarboxylate[cytosol]	1*G1G1K-5345-MONOMER
+G1G1K-1920-MONOMER	histidine/lysine/arginine/ornithine ABC transporter ATP-binding protein HisP	L-arginine[periplasm] + ATP + H2O  <-->  L-arginine[cytosol] + ADP + phosphate	1*G1G1K-1920-MONOMER
+G1G1K-691-MONOMER	lipid A export permease/ATP-binding protein MsbA	a lipid A[cytosol]  <-->  a lipid A[periplasm]	1*G1G1K-691-MONOMER
+G1G1K-7485-MONOMER	arginine-ornithine antiporter	L-arginine[periplasm] + ornithine[cytosol]  <-->  L-arginine[cytosol] + ornithine[periplasm]	1*G1G1K-7485-MONOMER
+G1G1K-7770-MONOMER	trehalose permease IIC protein	an [HPr protein]-Npi-phospho-L-histidine + galactitol[out]  <-->  galactitol 1-phosphate[in] + an [HPr]-L-histidine	1*G1G1K-7770-MONOMER
+G1G1K-1356-MONOMER	lysine transporter LysE	L-lysine[cytosol]  <-->  L-lysine[periplasm]	1*G1G1K-1356-MONOMER
+G1G1K-7770-MONOMER	trehalose permease IIC protein	an [HPr protein]-Npi-phospho-L-histidine + alpha-D-cellobiose[out]  <-->  alpha-D-cellobiose 6'-phosphate[in] + an [HPr]-L-histidine	1*G1G1K-7770-MONOMER
+G1G1K-7758-MONOMER	PTS glucose transporter subunit IIB	an [HPr protein]-Npi-phospho-L-histidine + D-glucose[periplasm]  <-->  D-glucose 6-phosphate[cytosol] + an [HPr]-L-histidine	1*G1G1K-7758-MONOMER
+G1G1K-1196-MONOMER	PTS fructose transporter subunit IIBC	an [HPr protein]-Npi-phospho-L-histidine + beta-D-fructopyranose[periplasm]  <-->  beta-D-fructopyranose 1-phosphate[cytosol] + an [HPr]-L-histidine	1*G1G1K-1196-MONOMER
+G1G1K-4641-MONOMER	molybdate ABC transporter substrate-binding protein	molybdate[periplasm] + ATP + H2O  <-->  molybdate[cytosol] + ADP + phosphate	1*G1G1K-4641-MONOMER
+G1G1K-7770-MONOMER	trehalose permease IIC protein	an [HPr protein]-Npi-phospho-L-histidine + D-mannopyranose[out]  <-->  an [HPr]-L-histidine[in] + D-mannopyranose 6-phosphate	1*G1G1K-7770-MONOMER
+G1G1K-2845-MONOMER	sodium transporter	Na+[periplasm] + H+[periplasm]  <-->  Na+[cytosol] + H+[cytosol]	1*G1G1K-2845-MONOMER
+G1G1K-1196-MONOMER	PTS fructose transporter subunit IIBC	an [HPr protein]-Npi-phospho-L-histidine + D-fructose[periplasm]  <-->  D-fructose 1-phosphate[cytosol] + an [HPr]-L-histidine	1*G1G1K-1196-MONOMER
+G1G1K-8639-MONOMER	Co2+/Mg2+ efflux protein ApaG	Mg2+[periplasm]  <-->  Mg2+[cytosol]	1*G1G1K-8639-MONOMER
+CPLX1G1K-17	predicted ABC transporter of a C4-dicarboxylate	a C4-dicarboxylate[periplasm] + ATP + H2O  <-->  a C4-dicarboxylate[cytosol] + ADP + phosphate	1*G1G1K-5291-MONOMER,1*G1G1K-5297-MONOMER
+G1G1K-6288-MONOMER	ferric citrate ABC transporter ATP-binding protein FecE	citrate[periplasm] + ATP + H2O  <-->  citrate[cytosol] + ADP + phosphate	1*G1G1K-6288-MONOMER
+G1G1K-7770-MONOMER	trehalose permease IIC protein	an [HPr protein]-Npi-phospho-L-histidine + N,N'-diacetylchitobiose[out]  <-->  N,N'-diacetylchitobiose 6'-phosphate[in] + an [HPr]-L-histidine	1*G1G1K-7770-MONOMER
+CPLX1G1K-18	predicted ABC transporter of a branched-chain amino acid	a branched-chain amino acid[periplasm] + ATP + H2O  <-->  a branched-chain amino acid[cytosol] + ADP + phosphate	1*G1G1K-5213-MONOMER,1*G1G1K-5214-MONOMER
+G1G1K-4631-MONOMER	arsenical efflux pump membrane protein ArsB	arsenite[in] + ATP + H2O  <-->  arsenite[out] + ADP + phosphate + H+	1*G1G1K-4631-MONOMER
+G1G1K-35-MONOMER	sodium-independent anion transporter	an anion[periplasm]  <-->  an anion[cytosol]	1*G1G1K-35-MONOMER
+G1G1K-202-MONOMER	poly-beta-1,6 N-acetyl-D-glucosamine export porin PgaA	N-acetyl-alpha-D-glucosamine[cytosol]  <-->  N-acetyl-alpha-D-glucosamine[periplasm]	1*G1G1K-202-MONOMER
+G1G1K-9054-MONOMER	putative 2-aminoethylphosphonate ABC transporter substrate-binding protein	(2-aminoethyl)phosphonate[periplasm] + ATP + H2O  <-->  (2-aminoethyl)phosphonate[cytosol] + ADP + phosphate	1*G1G1K-9054-MONOMER
+G1G1K-8074-MONOMER	hemin transporter substrate-binding protein	hemin[periplasm]  <-->  hemin[cytosol]	1*G1G1K-8074-MONOMER
+CPLX1G1K-24	predicted ABC transporter of taurine	taurine[periplasm] + ATP + H2O  <-->  taurine[cytosol] + ADP + phosphate	1*G1G1K-360-MONOMER,1*G1G1K-361-MONOMER,1*G1G1K-362-MONOMER
+G1G1K-8020-MONOMER	aromatic amino acid transporter	an aromatic amino acid[cytosol]  <-->  an aromatic amino acid[periplasm]	1*G1G1K-8020-MONOMER
+G1G1K-7720-MONOMER	preQ0 transporter	preQ0[periplasm]  <-->  preQ0[cytosol]	1*G1G1K-7720-MONOMER
+CPLX1G1K-3	predicted ATP-driven transporter of K+	K+[periplasm] + ATP + H2O  <-->  K+[cytosol] + ADP + phosphate	1*G1G1K-2488-MONOMER,1*G1G1K-2493-MONOMER
+G1G1K-9548-MONOMER	ATP synthase subunit alpha	ADP + phosphate + 4 H+[out]  <-->  ATP + H2O + 3 H+[in]	1*G1G1K-9548-MONOMER
+G1G1K-5404-MONOMER	PTS sugar transporter subunit IIC	a sugar[periplasm] + an [HPr protein]-Npi-phospho-L-histidine  <-->  a sugar 6-phosphate[cytosol] + an [HPr]-L-histidine	1*G1G1K-5404-MONOMER
+G1G1K-7770-MONOMER	trehalose permease IIC protein	an [HPr protein]-Npi-phospho-L-histidine + beta-D-galactose[out]  <-->  beta-D-galactose 6-phosphate[in] + an [HPr]-L-histidine	1*G1G1K-7770-MONOMER
+G1G1K-7770-MONOMER	trehalose permease IIC protein	an [HPr protein]-Npi-phospho-L-histidine + maltose[out]  <-->  maltose 6'-phosphate[in] + an [HPr]-L-histidine	1*G1G1K-7770-MONOMER
+G1G1K-7987-MONOMER	2-keto-3-deoxygluconate permease	2-dehydro-3-deoxy-D-gluconate[periplasm] + H+[periplasm]  <-->  2-dehydro-3-deoxy-D-gluconate[cytosol] + H+[cytosol]	1*G1G1K-7987-MONOMER
+CPLX1G1K-25	predicted ABC transporter of L-methionine	L-methionine[periplasm] + ATP + H2O  <-->  L-methionine[cytosol] + ADP + phosphate	1*G1G1K-100-MONOMER,1*G1G1K-102-MONOMER
+G1G1K-4588-MONOMER	histidine ABC transporter substrate-binding protein	L-histidine[periplasm] + ATP + H2O  <-->  L-histidine[cytosol] + ADP + phosphate	1*G1G1K-4588-MONOMER
+G1G1K-7758-MONOMER	PTS glucose transporter subunit IIB	an [HPr protein]-Npi-phospho-L-histidine + aldehydo-D-glucose[periplasm]  <-->  aldehydo-D-glucose 6-phosphate[cytosol] + an [HPr]-L-histidine	1*G1G1K-7758-MONOMER
+G1G1K-3521-MONOMER	allantoin permease	allantoin[periplasm] + H+[periplasm]  <-->  allantoin[cytosol] + H+[cytosol]	1*G1G1K-3521-MONOMER
+G1G1K-267-MONOMER	sulfate ABC transporter ATP-binding protein	sulfate[out] + ATP + H2O  <-->  sulfate[in] + ADP + phosphate + H+	1*G1G1K-267-MONOMER
+G1G1K-7770-MONOMER	trehalose permease IIC protein	an [HPr protein]-Npi-phospho-L-histidine + alpha-L-sorbofuranose[out]  <-->  alpha-L-sorbofuranose 1-phosphate[in] + an [HPr]-L-histidine	1*G1G1K-7770-MONOMER
+G1G1K-5164-MONOMER	amino acid transporter	an amino acid[periplasm]  <-->  an amino acid[cytosol]	1*G1G1K-5164-MONOMER
+G1G1K-1922-MONOMER	histidine/lysine/arginine/ornithine ABC transporter permease HisM	ATP + L-ornithine[out] + H2O  <-->  ADP + L-ornithine[in] + phosphate + H+	1*G1G1K-1922-MONOMER
+G1G1K-4897-MONOMER	proton glutamate symport protein	glutamate[periplasm] + H+[periplasm]  <-->  glutamate[cytosol] + H+[cytosol]	1*G1G1K-4897-MONOMER
+G1G1K-7770-MONOMER	trehalose permease IIC protein	an [HPr protein]-Npi-phospho-L-histidine + alpha-D-mannopyranose[out]  <-->  alpha-D-mannopyranose 6-phosphate[in] + an [HPr]-L-histidine	1*G1G1K-7770-MONOMER
+CPLX1G1K-15	predicted ABC transporter of glycine/glycine betaine	glycine[periplasm] + ATP + H2O  <-->  glycine[cytosol] + ADP + phosphate	1*G1G1K-8802-MONOMER,1*G1G1K-8820-MONOMER
+G1G1K-1196-MONOMER	PTS fructose transporter subunit IIBC	an [HPr protein]-Npi-phospho-L-histidine + keto-D-fructose[periplasm]  <-->  keto-D-fructose 1-phosphate[cytosol] + an [HPr]-L-histidine	1*G1G1K-1196-MONOMER
+G1G1K-5334-MONOMER	serine/threonine transporter	serine[periplasm]  <-->  serine[cytosol]	1*G1G1K-5334-MONOMER
+G1G1K-4279-MONOMER	peptide ABC transporter substrate-binding protein	a peptide[periplasm] + ATP + H2O  <-->  a peptide[cytosol] + ADP + phosphate	1*G1G1K-4279-MONOMER
+G1G1K-9042-MONOMER	L-cystine transporter	L-cystine[cytosol]  <-->  L-cystine[periplasm]	1*G1G1K-9042-MONOMER
+G1G1K-155-MONOMER	NAD(P)(+) transhydrogenase	NADPH + NAD+ + H+[in]  <-->  NADP+ + NADH + H+[out]	1*G1G1K-155-MONOMER
+G1G1K-7961-MONOMER	sulfate transporter CysZ	sulfate[periplasm]  <-->  sulfate[cytosol]	1*G1G1K-7961-MONOMER
+G1G1K-7770-MONOMER	trehalose permease IIC protein	an [HPr protein]-Npi-phospho-L-histidine + D-fructofuranose[out]  <-->  D-fructofuranose 1-phosphate[in] + an [HPr]-L-histidine	1*G1G1K-7770-MONOMER
+CPLX1G1K-34	predicted ABC transporter of a sulfonate	a sulfonate[periplasm] + ATP + H2O  <-->  a sulfonate[cytosol] + ADP + phosphate	1*G1G1K-4418-MONOMER,1*G1G1K-4420-MONOMER
+G1G1K-1920-MONOMER	histidine/lysine/arginine/ornithine ABC transporter ATP-binding protein HisP	ornithine[periplasm] + ATP + H2O  <-->  ornithine[cytosol] + ADP + phosphate	1*G1G1K-1920-MONOMER
+G1G1K-2614-MONOMER	ammonium transporter	ammonium[out]  <-->  ammonium[in]	1*G1G1K-2614-MONOMER
+G1G1K-2897-MONOMER	voltage-gated chloride channel	chloride[periplasm]  <-->  chloride[cytosol]	1*G1G1K-2897-MONOMER
+G1G1K-7770-MONOMER	trehalose permease IIC protein	an [HPr protein]-Npi-phospho-L-histidine + alpha-chitobiose[out]  <-->  alpha-chitobiose 6'-phosphate[in] + an [HPr]-L-histidine	1*G1G1K-7770-MONOMER
+G1G1K-3744-MONOMER	alginate export family protein	alginate[cytosol]  <-->  alginate[periplasm]	1*G1G1K-3744-MONOMER
+G1G1K-7770-MONOMER	trehalose permease IIC protein	an [HPr protein]-Npi-phospho-L-histidine + N-acetyl-D-glucosamine[out]  <-->  an [HPr]-L-histidine + N-acetyl-D-glucosamine 6-phosphate[in]	1*G1G1K-7770-MONOMER
+G1G1K-646-MONOMER	K+/H+ antiporter NhaP2	K+[cytosol] + H+[periplasm]  <-->  K+[periplasm] + H+[cytosol]	1*G1G1K-646-MONOMER
+G1G1K-4815-MONOMER	ribose ABC transporter permease	D-ribose[periplasm] + ATP + H2O  <-->  D-ribose[cytosol] + ADP + phosphate	1*G1G1K-4815-MONOMER
+G1G1K-7770-MONOMER	trehalose permease IIC protein	an [HPr protein]-Npi-phospho-L-histidine + trehalose[out]  <-->  D-trehalose 6-phosphate[in] + an [HPr]-L-histidine	1*G1G1K-7770-MONOMER
+G1G1K-7770-MONOMER	trehalose permease IIC protein	an [HPr protein]-Npi-phospho-L-histidine + beta-maltose[out]  <-->  beta-maltose 6'-phosphate[in] + an [HPr]-L-histidine	1*G1G1K-7770-MONOMER
+G1G1K-2628-MONOMER	heme ABC exporter ATP-binding protein CcmA	heme b[in] + ATP + H2O  <-->  heme b[out] + ADP + phosphate + H+	1*G1G1K-2628-MONOMER
+G1G1K-2420-MONOMER	uracil permease	uracil[periplasm] + H+[periplasm]  <-->  uracil[cytosol] + H+[cytosol]	1*G1G1K-2420-MONOMER

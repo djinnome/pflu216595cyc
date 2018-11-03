@@ -1,0 +1,54 @@
+# 
+#
+# Authors:
+#    Pallavi Subhraveti
+#    Quang Ong
+#    Ingrid Keseler
+#    Anamika Kothari
+#    Ron Caspi
+#    Peter D Karp
+#
+# Please see the license agreement regarding the use of and distribution of this file.
+# The format of this file is defined at http://bioinformatics.ai.sri.com/ptools/flatfile-format.html .
+#
+# Species: Pseudomonas fluorescens SBW25
+# Database: PFLU216595CYC
+# Version: 22.5
+# File Name: promoters.dat
+# Date and time generated: September 10, 2018, 16:38:41
+#
+# Attributes:
+#    UNIQUE-ID
+#    TYPES
+#    COMMON-NAME
+#    ABSOLUTE-PLUS-1-POS
+#    CITATIONS
+#    COMMENT
+#    COMPONENT-OF
+#    CREDITS
+#    DATA-SOURCE
+#    DBLINKS
+#    DOCUMENTATION
+#    HIDE-SLOT?
+#    INSTANCE-NAME-TEMPLATE
+#    LEFT-END-POSITION
+#    MEMBER-SORT-FN
+#    PATHOLOGIC-NAME-MATCHER-EVIDENCE
+#    PATHOLOGIC-PWY-EVIDENCE
+#    PROMOTER-BOXES
+#    RIGHT-END-POSITION
+#    SYNONYMS
+#    UNMAPPED-COMPONENT-OF
+#
+UNIQUE-ID - PM1G1K-1
+TYPES - Promoters
+CITATIONS - 18202367:EV-EXP-IDA:3719020078:pecocyc
+CITATIONS - 17717196:EV-EXP-IDA:3719020077:pecocyc
+COMMENT - hutU-hutG operon promoter
+COMMENT - Transcriptional start point of hutU-hutG operon was determined by 5'-RACE.
+COMPONENT-OF - TU1G1K-8067
+DBLINKS - (REGTRANSBASE "118464" NIL |pecocyc| 3719020078 NIL NIL)
+DBLINKS - (REGTRANSBASE "118465" NIL |pecocyc| 3719020078 NIL NIL)
+DBLINKS - (REGTRANSBASE "118414" NIL |pecocyc| 3719020078 NIL NIL)
+UNMAPPED-COMPONENT-OF - NC_012660
+//
